@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T10:25:04.440Z",
+  "updatedAt": "2026-05-05T10:12:36.128Z",
   "count": 573,
   "data": [
     {
@@ -75,7 +75,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "adrenaline-shot",
@@ -152,7 +153,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "advanced-arc-powercell",
@@ -226,7 +228,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "advanced-electrical-components",
@@ -302,7 +305,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "advanced-mechanical-components",
@@ -378,7 +382,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "agave",
@@ -452,7 +457,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "agave-juice",
@@ -529,7 +535,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "air-freshener",
@@ -605,7 +612,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "alarm-clock",
@@ -679,7 +687,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "alien-duck",
@@ -753,7 +762,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ancient-fort-security-code",
@@ -832,7 +842,8 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "angled-grip-i",
@@ -891,7 +902,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "angled-grip-ii",
@@ -950,7 +962,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "angled-grip-ii-recipe",
@@ -1029,7 +1042,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "angled-grip-iii",
@@ -1088,7 +1102,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "angled-grip-iii-recipe",
@@ -1167,7 +1182,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "antiseptic",
@@ -1243,7 +1259,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "anvil-recipe",
@@ -1322,7 +1339,8 @@
           "label": "How to Find Anvil Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "anvil-i",
@@ -1399,7 +1417,8 @@
       "ammo_type": "Heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "anvil-ii",
@@ -1473,7 +1492,8 @@
       "ammo_type": "Heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "anvil-iii",
@@ -1548,7 +1568,8 @@
       "ammo_type": "heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "anvil-iv",
@@ -1623,7 +1644,8 @@
       "ammo_type": "Heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "anvil-splitter",
@@ -1682,7 +1704,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "aphelion-rifle",
@@ -1756,7 +1779,8 @@
       "ammo_type": "energy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "aphelion-rifle-blueprint",
@@ -1835,7 +1859,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "apricot",
@@ -1920,7 +1945,8 @@
           "label": "Apricots Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-alloy",
@@ -1996,7 +2022,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-circuitry",
@@ -2072,7 +2099,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-coolant",
@@ -2146,7 +2174,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-flex-rubber",
@@ -2222,7 +2251,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-motion-core",
@@ -2298,7 +2328,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-performance-steel",
@@ -2372,7 +2403,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-powercell",
@@ -2448,7 +2480,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-synthetic-resin",
@@ -2522,7 +2555,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arc-thermo-lining",
@@ -2596,7 +2630,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arpeggio-i",
@@ -2673,7 +2708,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arpeggio-ii",
@@ -2747,7 +2783,8 @@
       "ammo_type": "Medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arpeggio-iii",
@@ -2822,7 +2859,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "arpeggio-iv",
@@ -2897,7 +2935,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "assessor-matrix",
@@ -2971,7 +3010,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "assorted-seeds",
@@ -3045,7 +3085,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "aviator-outfit",
@@ -3119,7 +3160,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bag-radio-renegade-variant",
@@ -3193,7 +3235,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "banana-backpack-charm",
@@ -3267,7 +3310,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bandage",
@@ -3344,7 +3388,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "barricade-kit",
@@ -3420,7 +3465,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "barricade-kit-recipe",
@@ -3499,7 +3545,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bastion-part",
@@ -3575,7 +3622,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "battery",
@@ -3649,7 +3697,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bettina-blueprint",
@@ -3728,7 +3777,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bettina-i",
@@ -3802,7 +3852,8 @@
       "ammo_type": "Heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bettina-ii",
@@ -3876,7 +3927,8 @@
       "ammo_type": "heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bettina-iii",
@@ -3950,7 +4002,8 @@
       "ammo_type": "heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bettina-iv",
@@ -4024,7 +4077,8 @@
       "ammo_type": "heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bicycle-pump",
@@ -4098,7 +4152,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "binoculars",
@@ -4174,7 +4229,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bison-driver",
@@ -4221,7 +4277,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "black-eye-face-style",
@@ -4295,7 +4352,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "black-hiker-colour",
@@ -4367,7 +4425,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "black-and-white-origin-color",
@@ -4441,7 +4500,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blaze-grenade",
@@ -4517,7 +4577,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blaze-grenade-blueprint",
@@ -4596,7 +4657,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blaze-grenade-trap",
@@ -4670,7 +4732,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bloated-tuna-can",
@@ -4746,7 +4809,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-gate-cellar-key",
@@ -4829,7 +4893,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-gate-communication-tower-key",
@@ -4908,7 +4973,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-gate-confiscation-room-key",
@@ -4987,7 +5053,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-gate-village-key",
@@ -5061,7 +5128,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-light-stick",
@@ -5135,7 +5203,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-light-stick-blueprint",
@@ -5214,7 +5283,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-radio-renegade-color",
@@ -5288,7 +5358,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "blue-yellow-aviator-color",
@@ -5362,7 +5433,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bobcat-i-recipe",
@@ -5441,7 +5513,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bobcat-i",
@@ -5518,7 +5591,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bobcat-ii",
@@ -5592,7 +5666,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bobcat-iii",
@@ -5666,7 +5741,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bobcat-iv",
@@ -5740,7 +5816,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bombardier-cell",
@@ -5814,7 +5891,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "bow-and-arrow-emote",
@@ -5888,7 +5966,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "breathtaking-snow-globe",
@@ -5962,7 +6041,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "briefcase-backpack-attachment",
@@ -6036,7 +6116,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "broken-flashlight",
@@ -6110,7 +6191,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "broken-guidance-system",
@@ -6184,7 +6266,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "broken-handcuffs",
@@ -6223,7 +6306,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "broken-handheld-radio",
@@ -6297,7 +6381,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "broken-taser",
@@ -6371,7 +6456,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burgerboy-backpack-charm",
@@ -6445,7 +6531,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "buried-city-hospital-key",
@@ -6524,7 +6611,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "buried-city-jkv-employee-access-card",
@@ -6598,7 +6686,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "buried-city-residential-master-key",
@@ -6685,7 +6774,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "buried-city-town-hall-key",
@@ -6764,7 +6854,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burltetta-recipe",
@@ -6843,7 +6934,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burletta-i",
@@ -6920,7 +7012,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burletta-ii",
@@ -6994,7 +7087,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burletta-iiii",
@@ -7068,7 +7162,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burletta-iv",
@@ -7142,7 +7237,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burned-arc-circuitry",
@@ -7216,7 +7312,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "burnt-out-candles",
@@ -7290,7 +7387,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "camera-lens",
@@ -7366,7 +7464,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "candleberries",
@@ -7440,7 +7539,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "candle-holder",
@@ -7514,7 +7614,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "canister",
@@ -7590,7 +7691,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "cans-backpack-attachment",
@@ -7651,7 +7753,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "canto-blueprint",
@@ -7734,7 +7837,8 @@
           "label": "Canto Blueprint Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "canto",
@@ -7808,7 +7912,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "canto-ii",
@@ -7882,7 +7987,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "canto-iii",
@@ -7956,7 +8062,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "canto-iv",
@@ -8030,7 +8137,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "cat-bed",
@@ -8115,7 +8223,8 @@
           "label": "Cat Bed Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "cheer-emote",
@@ -8187,7 +8296,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "chemicals",
@@ -8263,7 +8373,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "coffee-pot",
@@ -8339,7 +8450,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "coins",
@@ -8413,7 +8525,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "combat-mk-1",
@@ -8487,7 +8600,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "combat-mk-2",
@@ -8563,7 +8677,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "combat-mk-3-aggressive",
@@ -8639,7 +8754,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "combat-mk3-aggressive-blueprint",
@@ -8718,7 +8834,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "combat-mk3-flanking",
@@ -8793,7 +8910,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "combat-mk-3-flanking",
@@ -8872,7 +8990,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "comet-igniter",
@@ -8946,7 +9065,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "compensator-i",
@@ -9005,7 +9125,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "compensator-ii",
@@ -9065,7 +9186,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "compensator-ii-recipe",
@@ -9144,7 +9266,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "compensator-iii",
@@ -9206,7 +9329,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "compensator-iii-recipe",
@@ -9285,7 +9409,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "complex-gun-parts",
@@ -9359,7 +9484,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "complex-gun-parts-blueprint",
@@ -9438,7 +9564,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "coolant",
@@ -9512,7 +9639,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "cooling-coil",
@@ -9586,7 +9714,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "cooling-fan",
@@ -9665,7 +9794,8 @@
           "label": "Where to Find Cooling Fans Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "cracked-bioscanner",
@@ -9739,7 +9869,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "crash-mat",
@@ -9814,7 +9945,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "crash-mat-blueprint",
@@ -9888,7 +10020,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "crimson-racer-aviator-colour",
@@ -9962,7 +10095,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "crude-explosives",
@@ -10036,7 +10170,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "crumpled-plastic-bottle",
@@ -10110,7 +10245,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "damaged-arc-motion-core",
@@ -10184,7 +10320,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "damaged-arc-powercell",
@@ -10258,7 +10395,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "damaged-fireball-burner",
@@ -10332,7 +10470,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "damaged-heat-sink",
@@ -10417,7 +10556,8 @@
           "label": "Damaged Heat Sink Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "danaged-hornet-driver",
@@ -10491,7 +10631,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "damaged-rocketeer-part",
@@ -10565,7 +10706,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "damaged-tick-pod",
@@ -10641,7 +10783,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "damaged-wasp-driver",
@@ -10715,7 +10858,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dam-control-center-tower-key",
@@ -10794,7 +10938,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dam-controlled-access-zone-key",
@@ -10868,7 +11013,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dam-staff-room-key",
@@ -10947,7 +11093,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dam-surveillance-key",
@@ -11026,7 +11173,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dam-testing-annex-key",
@@ -11109,7 +11257,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dam-utility-key",
@@ -11181,7 +11330,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dart-board",
@@ -11257,7 +11407,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "deadline",
@@ -11331,7 +11482,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "deadline-blueprint",
@@ -11410,7 +11562,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "defibrillator",
@@ -11487,7 +11640,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "defibrillator-recipe",
@@ -11566,7 +11720,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "deflated-football",
@@ -11642,7 +11797,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "degraded-arc-rubber",
@@ -11716,7 +11872,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "diving-googles",
@@ -11790,7 +11947,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dockmasters-detector",
@@ -11864,7 +12022,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dog-collar",
@@ -11940,7 +12099,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dolabra",
@@ -12014,7 +12174,8 @@
       "ammo_type": "energy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dolabra-blueprint",
@@ -12097,7 +12258,8 @@
           "label": "Dolabra Blueprint Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "doodly-duck",
@@ -12171,7 +12333,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "door-blocker",
@@ -12247,7 +12410,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "dried-out-arc-resin",
@@ -12321,7 +12485,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "duct-tape-recipe",
@@ -12395,7 +12560,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "durable-cloth",
@@ -12469,7 +12635,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "electrical-components",
@@ -12545,7 +12712,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "empty-wine-bottle",
@@ -12621,7 +12789,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "energy-ammo",
@@ -12697,7 +12866,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "equalizer-i",
@@ -12774,7 +12944,8 @@
       "ammo_type": "Energy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "equalizer-recipe",
@@ -12853,7 +13024,8 @@
           "label": "How to Get the Equalizer Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "esr-analyzer",
@@ -12929,7 +13101,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "exodus-modules",
@@ -13008,7 +13181,8 @@
           "label": "Where to find Exodus Modules"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "expired-pasta",
@@ -13082,7 +13256,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "expired-respirator",
@@ -13161,7 +13336,8 @@
           "label": "Where to Find Expired Respirators"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "explosive-compound",
@@ -13235,7 +13411,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "explosive-mine",
@@ -13312,7 +13489,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "explosive-mine-blueprint",
@@ -13391,7 +13569,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-barrel",
@@ -13450,7 +13629,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-barrel-recipe",
@@ -13529,7 +13709,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-light-mag-i",
@@ -13588,7 +13769,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-light-mag-ii",
@@ -13649,7 +13831,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-light-mag-ii-recipe",
@@ -13728,7 +13911,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-light-mag-iii",
@@ -13787,7 +13971,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-light-mag-iii-recipe",
@@ -13866,7 +14051,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-medium-mag-i",
@@ -13925,7 +14111,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-medium-mag-ii",
@@ -13985,7 +14172,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-medium-mag-ii-recipe",
@@ -14064,7 +14252,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-medium-mag-iii",
@@ -14124,7 +14313,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-medium-mag-iii-blueprint",
@@ -14203,7 +14393,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-shotgun-mag-i",
@@ -14262,7 +14453,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-shotgun-mag-ii",
@@ -14322,7 +14514,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-shotgun-mag-ii-recipe",
@@ -14396,7 +14589,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-shotgun-mag-iii",
@@ -14456,7 +14650,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "extended-shotgun-mag-iii-recipe",
@@ -14535,7 +14730,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fabric",
@@ -14611,7 +14807,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "faded-flush-aviator-color",
@@ -14685,7 +14882,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "faded-photograph",
@@ -14761,7 +14959,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "familiar-duck",
@@ -14835,7 +15034,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ferro-i",
@@ -14912,7 +15112,8 @@
       "ammo_type": "heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ferro-ii",
@@ -14986,7 +15187,8 @@
       "ammo_type": "Heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ferro-iii",
@@ -15060,7 +15262,8 @@
       "ammo_type": "heavy ",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ferro-iv",
@@ -15135,7 +15338,8 @@
       "ammo_type": "Heavy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fertilizer",
@@ -15209,7 +15413,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "film-reel",
@@ -15285,7 +15490,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fine-wristwatch",
@@ -15359,7 +15565,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "finger-gun-single-shot-emote",
@@ -15433,7 +15640,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fireball-burner",
@@ -15518,7 +15726,8 @@
           "label": "Destroy Ticks, Fireballs and Pops: Weekly Trials"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "firecracker",
@@ -15593,7 +15802,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "firefly-burner",
@@ -15667,7 +15877,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fireworks-box",
@@ -15742,7 +15953,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fireworks-box-blueprint",
@@ -15821,7 +16033,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "flame-spray",
@@ -15895,7 +16108,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "flashy-duck",
@@ -15969,7 +16183,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "flow-controller",
@@ -16043,7 +16258,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "flushing-terminal-key",
@@ -16117,7 +16333,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fossilized-lightning",
@@ -16191,7 +16408,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "free-loadout-augment",
@@ -16266,7 +16484,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "frequency-modulation-box",
@@ -16340,7 +16559,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fried-motherboard",
@@ -16425,7 +16645,8 @@
           "label": "Fried Motherboards Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "fruit-mix",
@@ -16503,7 +16724,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "frying-pan",
@@ -16577,7 +16799,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "garlic-press",
@@ -16651,7 +16874,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "gas-grenade",
@@ -16727,7 +16951,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "gas-grenade-trap",
@@ -16801,7 +17026,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "gas-mine",
@@ -16875,7 +17101,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "gas-mine-blueprint",
@@ -16954,7 +17181,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "geiger-counter",
@@ -17033,7 +17261,8 @@
           "label": "Where to Find Geiger Counters"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "gentle-duck",
@@ -17107,7 +17336,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "goggles-radio-renegade-variant",
@@ -17181,7 +17411,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "gothic-graffiti-aviator-color",
@@ -17255,7 +17486,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "great-muullein",
@@ -17329,7 +17561,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "green-light-stick",
@@ -17403,7 +17636,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "green-light-stick-blueprint",
@@ -17482,7 +17716,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hairpin-i",
@@ -17559,7 +17794,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hairpin-ii",
@@ -17633,7 +17869,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hairpin-iii",
@@ -17707,7 +17944,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hairpin-iv",
@@ -17781,7 +18019,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "happy-jig-emote",
@@ -17855,7 +18094,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "headphones",
@@ -17929,7 +18169,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "heavy-ammo",
@@ -18005,7 +18246,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "heavy-fuze-grenade",
@@ -18081,7 +18323,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "heavy-gun-parts",
@@ -18157,7 +18400,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "heavy-gun-parts-recipe",
@@ -18236,7 +18480,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "heavy-shield",
@@ -18314,7 +18559,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "helmet-radio-renegade-variant",
@@ -18388,7 +18634,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "herbal-bandage",
@@ -18465,7 +18712,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "horizontal-grip",
@@ -18523,7 +18771,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hornet-driver",
@@ -18604,7 +18853,8 @@
           "label": "Damage Hornets: Weekly Trial"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "household-cleaner",
@@ -18678,7 +18928,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hullcracker-blueprint",
@@ -18757,7 +19008,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hullcracker-i",
@@ -18831,7 +19083,8 @@
       "ammo_type": "launcher",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hullcracker-ii",
@@ -18905,7 +19158,8 @@
       "ammo_type": "launcher",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hullcracker-iii",
@@ -18979,7 +19233,8 @@
       "ammo_type": "launcher",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "hullcracker-iv",
@@ -19053,7 +19308,8 @@
       "ammo_type": "launcher",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "humidifier",
@@ -19132,7 +19388,8 @@
           "label": "Where to Find Humidifiers in ARC Raiders"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ice-cream-scooper",
@@ -19206,7 +19463,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "il-toro-recipe",
@@ -19285,7 +19543,8 @@
           "label": "How to Find Il Toro Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "il-toro-i",
@@ -19363,7 +19622,8 @@
       "ammo_type": "shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "il-toro-ii",
@@ -19437,7 +19697,8 @@
       "ammo_type": "shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "il-toro-iiii",
@@ -19511,7 +19772,8 @@
       "ammo_type": "shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "il-toro-iv",
@@ -19585,7 +19847,8 @@
       "ammo_type": "shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "impure-arc-coolant",
@@ -19659,7 +19922,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "industrial-battery",
@@ -19735,7 +19999,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "industrial-charger",
@@ -19809,7 +20074,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "industrial-magnet",
@@ -19883,7 +20149,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ion-sputter",
@@ -19957,7 +20224,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "jolt-mine",
@@ -20033,7 +20301,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "jolt-mine-recipe",
@@ -20112,7 +20381,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "junior-outfit",
@@ -20173,7 +20443,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "jupiter-i",
@@ -20244,13 +20515,14 @@
       "flavor_text": "Very effective against ARC armor plating",
       "subcategory": "Sniper Rifle",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-05T09:31:47.445506+00:00",
       "loot_area": null,
       "sources": null,
-      "ammo_type": "Heavy",
+      "ammo_type": "energy",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "jupiter-i-recipe",
@@ -20329,7 +20601,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "kettle-i",
@@ -20406,7 +20679,8 @@
       "ammo_type": "Light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "kettle-ii",
@@ -20480,7 +20754,8 @@
       "ammo_type": "Light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "kettle-iii",
@@ -20554,7 +20829,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "kettle-iv",
@@ -20628,7 +20904,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "kinetic-converter",
@@ -20688,7 +20965,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "laboratory-reagents",
@@ -20773,7 +21051,8 @@
           "label": "Lboratory Reagents Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lances-mixtape-5th-edition",
@@ -20849,7 +21128,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "laser-trap-lure-recipe",
@@ -20894,7 +21174,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "launcher-ammo",
@@ -20968,7 +21249,8 @@
       "ammo_type": "launcher",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "leaper-pulse-unit",
@@ -21043,7 +21325,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lemon",
@@ -21128,7 +21411,8 @@
           "label": "Lemons Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "leviathans-crown-ship-model",
@@ -21202,7 +21486,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lidar-scanner",
@@ -21276,7 +21561,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "light-ammo",
@@ -21352,7 +21638,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "light-bulb",
@@ -21437,7 +21724,8 @@
           "label": "Light Bulbs Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "light-gun-parts",
@@ -21513,7 +21801,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "light-gun-parts-recipe",
@@ -21592,7 +21881,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "light-impact-grenade",
@@ -21668,7 +21958,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "light-shield",
@@ -21746,7 +22037,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lightweight-stock",
@@ -21810,7 +22102,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lightweight-stock-recipe",
@@ -21889,7 +22182,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lil-smoke-grenade",
@@ -21963,7 +22257,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "looting-mk-1",
@@ -22037,7 +22332,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "looting-mk-2",
@@ -22113,7 +22409,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "looting-mk-3-cautious",
@@ -22188,7 +22485,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "looting-mk-3-safekeeper",
@@ -22264,7 +22562,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "looting-mk-3-safekeeper-blueprint",
@@ -22338,7 +22637,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "looting-mk-3-survivor",
@@ -22415,7 +22715,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "looting-mk-3-survivor-blueprint",
@@ -22494,7 +22795,8 @@
           "label": "How to Find Survivor Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lure-grenade",
@@ -22570,7 +22872,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lure-grenade-recipe",
@@ -22649,7 +22952,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "lure-grenade-trap",
@@ -22724,7 +23028,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "magnet",
@@ -22798,7 +23103,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "magnetic-accelerator",
@@ -22877,7 +23183,8 @@
           "label": "Where to Find Magnetic Accelerators"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "magnetron",
@@ -22951,7 +23258,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "mastery-medal-backpack-charm",
@@ -23025,7 +23333,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "matriarch-reactor",
@@ -23099,7 +23408,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "mechanical-components",
@@ -23175,7 +23485,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "medium-ammo",
@@ -23251,7 +23562,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "medium-gun-parts",
@@ -23327,7 +23639,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "medium-gun-parts-recipe",
@@ -23406,7 +23719,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "medium-shield",
@@ -23486,7 +23800,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "metal-brackets",
@@ -23560,7 +23875,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "metal-parts",
@@ -23636,7 +23952,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "microscope",
@@ -23710,7 +24027,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "mini-centrifuge",
@@ -23784,7 +24102,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "mod-components",
@@ -23860,7 +24179,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "moss",
@@ -23939,7 +24259,8 @@
           "label": "Where to Find Moss"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "motor",
@@ -24024,7 +24345,8 @@
           "label": "Motors Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "mushroom",
@@ -24107,7 +24429,8 @@
           "label": "Mushrooms Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "music-album",
@@ -24183,7 +24506,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "music-box",
@@ -24259,7 +24583,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "muzzle-brake-i",
@@ -24318,7 +24643,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "muzzle-brake-ii",
@@ -24378,7 +24704,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "muzzle-brake-ii-recipe",
@@ -24457,7 +24784,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "muzzle-brake-iii",
@@ -24518,7 +24846,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "muzzle-brake-iii-recipe",
@@ -24597,7 +24926,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "noisemaker",
@@ -24671,7 +25001,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "number-plate",
@@ -24745,7 +25076,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "oil",
@@ -24826,7 +25158,8 @@
           "label": "Where to Find Oil Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "olives",
@@ -24909,7 +25242,8 @@
           "label": "Olives Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "orange-camo-origin-outfit",
@@ -24983,7 +25317,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "osprey-recipe",
@@ -25062,7 +25397,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "osprey-i",
@@ -25139,7 +25475,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "osprey-ii",
@@ -25213,7 +25550,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "osprey-iii",
@@ -25287,7 +25625,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "osprey-iv",
@@ -25361,7 +25700,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "padded-stock",
@@ -25424,7 +25764,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "padded-stock-recipe",
@@ -25503,7 +25844,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "painted-box",
@@ -25577,7 +25919,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "patchwork-warden-color",
@@ -25651,7 +25994,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "patrol-car-key",
@@ -25730,7 +26074,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "patrol-outfit",
@@ -25804,7 +26149,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "photoelectric-cloak",
@@ -25880,7 +26226,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "pilgrims-peak-security-code",
@@ -25959,7 +26306,8 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "plastic-parts",
@@ -26035,7 +26383,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "playing-cards",
@@ -26111,7 +26460,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "polluted-air-filter",
@@ -26185,7 +26535,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "pop-trigger",
@@ -26268,7 +26619,8 @@
           "label": "Destroy Ticks, Fireballs and Pops: Weekly Trial"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "portable-television",
@@ -26344,7 +26696,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "poster-natural-wonder",
@@ -26420,7 +26773,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "pottery",
@@ -26496,7 +26850,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "power-bank",
@@ -26570,7 +26925,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "power-cable",
@@ -26646,7 +27002,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "powered-descender",
@@ -26720,7 +27077,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "powered-descender-blueprint",
@@ -26794,7 +27152,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "power-rod",
@@ -26870,7 +27229,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "prickly-pear",
@@ -26953,7 +27313,8 @@
           "label": "Prickly Pears Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "processor",
@@ -27027,7 +27388,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "projector",
@@ -27101,7 +27463,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "pulse-mine",
@@ -27175,7 +27538,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "pulse-mine-blueprint",
@@ -27254,7 +27618,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "queen-reactor",
@@ -27328,7 +27693,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "radio",
@@ -27402,7 +27768,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "radio-relay",
@@ -27476,7 +27843,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "radio-renegade-outfit",
@@ -27550,7 +27918,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "raider-hatch-key",
@@ -27626,7 +27995,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "raiders-refuge-security-code",
@@ -27705,7 +28075,8 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "raider-tokens",
@@ -27779,7 +28150,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rattler-i",
@@ -27856,7 +28228,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rattler-ii",
@@ -27930,7 +28303,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rattler-iii",
@@ -28004,7 +28378,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rattler-iv",
@@ -28078,7 +28453,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "recorder",
@@ -28152,7 +28528,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "red-coral-jewelry",
@@ -28228,7 +28605,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "red-light-stick",
@@ -28302,7 +28680,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "red-light-stick-blueprint",
@@ -28381,7 +28760,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "red-radio-renegade-color",
@@ -28455,7 +28835,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "reinforced-reception-security-code",
@@ -28534,7 +28915,8 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "remote-control",
@@ -28608,7 +28990,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "remote-raider-flare",
@@ -28684,7 +29067,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "remote-raider-flare-blueprint",
@@ -28763,7 +29147,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "renegade-i",
@@ -28840,7 +29225,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "renegade-ii",
@@ -28914,7 +29300,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "renegade-iii",
@@ -28988,7 +29375,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "renegade-iv",
@@ -29062,7 +29450,8 @@
       "ammo_type": "Medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "resin",
@@ -29136,7 +29525,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ripped-safety-vest",
@@ -29210,7 +29600,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-classifed-records-keycard",
@@ -29284,7 +29675,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-crane-house-keycard",
@@ -29358,7 +29750,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-102",
@@ -29437,7 +29830,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-107",
@@ -29516,7 +29910,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-113",
@@ -29595,7 +29990,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-205",
@@ -29674,7 +30070,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-208",
@@ -29753,7 +30150,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-311",
@@ -29832,7 +30230,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-404",
@@ -29911,7 +30310,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "riven-tides-secure-storage-keycard",
@@ -29990,7 +30390,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rocketeer-part",
@@ -30087,7 +30488,8 @@
           "label": "Damage Flying ARC Enemies: Weekly Trial"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rocket-thruster",
@@ -30161,7 +30563,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "roots",
@@ -30235,7 +30638,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rope",
@@ -30309,7 +30713,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rosary",
@@ -30383,7 +30788,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rotary-encoder",
@@ -30457,7 +30863,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rubber-duck",
@@ -30533,7 +30940,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rubber-pad",
@@ -30607,7 +31015,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rubber-parts-recipe",
@@ -30681,7 +31090,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ruined-accordion",
@@ -30755,7 +31165,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ruined-augment",
@@ -30829,7 +31240,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ruined-baton",
@@ -30903,7 +31315,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ruined-handcuffs",
@@ -30977,7 +31390,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ruined-parachute",
@@ -31051,7 +31465,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ruined-riot-shield",
@@ -31125,7 +31540,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "ruined-tactical-vest",
@@ -31199,7 +31615,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rusted-bolts",
@@ -31273,7 +31690,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rusted-gear",
@@ -31358,7 +31776,8 @@
           "label": "Rusted Gear Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rusted-shut-medical-kit",
@@ -31439,7 +31858,8 @@
           "label": "Rusted Shut Medical Kit Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rusted-tools",
@@ -31515,7 +31935,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "rusty-arc-steel",
@@ -31589,7 +32010,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "sample-cleaner",
@@ -31663,7 +32085,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "seeker-grenade",
@@ -31737,7 +32160,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "seeker-grenade-blueprint",
@@ -31816,7 +32240,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "sensors-recipe",
@@ -31890,7 +32315,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "sentinel-part",
@@ -31975,7 +32401,8 @@
           "label": "Sentinel Firing Core Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shaker",
@@ -32050,7 +32477,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shield-recharger",
@@ -32127,7 +32555,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-ammo",
@@ -32203,7 +32632,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-choke-i",
@@ -32262,7 +32692,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-choke-ii",
@@ -32321,7 +32752,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-choke-ii-recipe",
@@ -32400,7 +32832,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-choke-iii",
@@ -32461,7 +32894,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-choke-iii-recipe",
@@ -32540,7 +32974,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-gun-parts",
@@ -32587,7 +33022,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-silencer",
@@ -32663,7 +33099,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shotgun-silencer-blueprint",
@@ -32742,7 +33179,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "showstopper",
@@ -32818,7 +33256,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "showstopper-blueprint",
@@ -32897,7 +33336,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shrapnel-grenade",
@@ -32971,7 +33411,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "shredder-gyro",
@@ -33054,7 +33495,8 @@
           "label": "Deal Damage to Shredders: Weekly Trial"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "signal-amplifier",
@@ -33128,7 +33570,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "silencer-i",
@@ -33188,7 +33631,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "silencer-i-recipe",
@@ -33267,7 +33711,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "silencer-ii",
@@ -33328,7 +33773,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "silencer-ii-recipe",
@@ -33407,7 +33853,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "silencer-iii",
@@ -33468,7 +33915,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "silver-teaspoon-set",
@@ -33544,7 +33992,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "simple-gun-parts",
@@ -33620,7 +34069,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "sirena-dorata-ship-model",
@@ -33694,7 +34144,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "smoke-grenade",
@@ -33770,7 +34221,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "smoke-grenade-blueprint",
@@ -33849,7 +34301,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "laser-trap-smoke-recipe",
@@ -33923,7 +34376,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "snap-blast-grenade",
@@ -33999,7 +34453,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "snap-hook",
@@ -34075,7 +34530,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "snap-hook-recipe",
@@ -34154,7 +34610,8 @@
           "label": "How to Find Snaphook Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "snitch-scanner",
@@ -34243,7 +34700,8 @@
           "label": "Damage Wasps: Weekly Trial"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "snowball",
@@ -34326,7 +34784,8 @@
           "label": "Throw Snowballs at Rocketeers: Weekly Trial"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spaceport-container-storage-key",
@@ -34405,7 +34864,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spaceport-ground-control-key",
@@ -34484,7 +34944,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spaceport-trench-tower-key",
@@ -34563,7 +35024,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spaceport-warehouse-key",
@@ -34642,7 +35104,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "speaker-component",
@@ -34716,7 +35179,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spectrometer",
@@ -34790,7 +35254,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spectrum-analyzer",
@@ -34864,7 +35329,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spotter-relay",
@@ -34938,7 +35404,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spring-cushion",
@@ -35012,7 +35479,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stable-stock-i",
@@ -35072,7 +35540,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stable-stock-ii",
@@ -35134,7 +35603,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stable-stock-ii-recipe",
@@ -35213,7 +35683,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stable-stock-iii",
@@ -35276,7 +35747,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stable-stock-iii-recipe",
@@ -35355,7 +35827,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stack-of-movie-tapes",
@@ -35429,7 +35902,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "statuette",
@@ -35505,7 +35979,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "spring",
@@ -35581,7 +36056,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stella-montis-archives-key",
@@ -35660,7 +36136,8 @@
         }
       ],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stella-montis-assembly-admin-key",
@@ -35734,7 +36211,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stella-montis-medical-storage-key",
@@ -35808,7 +36286,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stella-montis-security-checkpoint-key",
@@ -35882,7 +36361,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "sterilized-bandage",
@@ -35959,7 +36439,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stitcher-i",
@@ -36036,7 +36517,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stitcher-ii",
@@ -36110,7 +36592,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stitcher-iii",
@@ -36184,7 +36667,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "stitcher-iv",
@@ -36258,7 +36742,8 @@
       "ammo_type": "light",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "succulent-backpack-charm",
@@ -36332,7 +36817,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "surge-coil",
@@ -36406,7 +36892,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "surge-coil-blueprint",
@@ -36489,7 +36976,8 @@
           "label": "Surge Coil Blueprint Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "surge-shield-recharger",
@@ -36563,7 +37051,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "surveyor-vault",
@@ -36646,7 +37135,8 @@
           "label": "Surveyor Vaults Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "synthesized-fuel",
@@ -36722,7 +37212,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "syringe",
@@ -36798,7 +37289,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk-1",
@@ -36873,7 +37365,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk-2",
@@ -36949,7 +37442,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk3-defensive",
@@ -37024,7 +37518,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk3-defensive-blueprint",
@@ -37103,7 +37598,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk-3-healing",
@@ -37179,7 +37675,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tacical-mk3-healing-blueprint",
@@ -37253,7 +37750,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk-3-revival",
@@ -37328,7 +37826,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk-3-revival-blueprint",
@@ -37407,7 +37906,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tactical-mk-3-smoke",
@@ -37482,7 +37982,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "utility-augment-t3-smoke-blueprint",
@@ -37556,7 +38057,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tagging-grenade",
@@ -37632,7 +38134,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tagging-grenade-recipe",
@@ -37711,7 +38214,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tangerine-warden-color",
@@ -37785,7 +38289,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tattered-arc-lining",
@@ -37859,7 +38364,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tattered-clothes",
@@ -37933,7 +38439,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "telemetry-transceiver",
@@ -38007,7 +38514,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tempest-i-recipe",
@@ -38086,7 +38594,8 @@
           "label": "How to Find Tempest Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tempest-i",
@@ -38163,7 +38672,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tempest-ii",
@@ -38237,7 +38747,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tempest-iii",
@@ -38311,7 +38822,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tempest-iv",
@@ -38385,7 +38897,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "thermostat",
@@ -38459,7 +38972,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tick-pod",
@@ -38535,7 +39049,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "toaster",
@@ -38611,7 +39126,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torch-ginger",
@@ -38656,7 +39172,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torn-blanket",
@@ -38732,7 +39249,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torn-book",
@@ -38806,7 +39324,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torrent-i-recipe",
@@ -38885,7 +39404,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torrente-i",
@@ -38962,7 +39482,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torrente-ii",
@@ -39036,7 +39557,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torrente-iii",
@@ -39110,7 +39632,8 @@
       "ammo_type": "Medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "torrente-iv",
@@ -39184,7 +39707,8 @@
       "ammo_type": "Medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "trailblazer-grenade",
@@ -39258,7 +39782,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "trailblazer-grenade-blueprint",
@@ -39337,7 +39862,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "trigger-nade",
@@ -39411,7 +39937,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "trigger-nade-recipe",
@@ -39490,7 +40017,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "tropical-duck",
@@ -39564,7 +40092,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "turbine-compressor",
@@ -39638,7 +40167,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "turbo-pump",
@@ -39712,7 +40242,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "twilight-compass-ship-model",
@@ -39786,7 +40317,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "unusable-weapon",
@@ -39860,7 +40392,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vaporizer-regulator",
@@ -39934,7 +40467,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vase",
@@ -40010,7 +40544,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "velocity-ship-model",
@@ -40084,7 +40619,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "venator-recipe",
@@ -40163,7 +40699,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "venator-i",
@@ -40240,7 +40777,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "venator-ii",
@@ -40315,7 +40853,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "venator-iii",
@@ -40389,7 +40928,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "venator-iv",
@@ -40463,7 +41003,8 @@
       "ammo_type": "medium",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vertical-grip-i",
@@ -40522,7 +41063,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vertical-grip-ii",
@@ -40582,7 +41124,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vertical-grip-ii-recipe",
@@ -40661,7 +41204,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vertical-grip-iii",
@@ -40721,7 +41265,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vertical-grip-iii-recipe",
@@ -40800,7 +41345,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "very-comfortable-pillow",
@@ -40885,7 +41431,8 @@
           "label": "Very Comfortable Pillow Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vita-shot",
@@ -40962,7 +41509,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vita-shot-recipe",
@@ -41041,7 +41589,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vita-spray",
@@ -41118,7 +41667,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vita-spray-recipe",
@@ -41197,7 +41747,8 @@
           "label": "How to Find Vita Spray Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "volcanic-rock",
@@ -41271,7 +41822,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "voltage-converter",
@@ -41347,7 +41899,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vulcano-blueprint",
@@ -41430,7 +41983,8 @@
           "label": "Hidden Bunker Explained"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vulcano-i",
@@ -41507,7 +42061,8 @@
       "ammo_type": "Shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vulcano-ii",
@@ -41582,7 +42137,8 @@
       "ammo_type": "shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vulcano-iii",
@@ -41656,7 +42212,8 @@
       "ammo_type": "shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "vulcano-iv",
@@ -41730,7 +42287,8 @@
       "ammo_type": "shotgun",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "warden-outfit",
@@ -41804,7 +42362,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "wasp-driver",
@@ -41880,7 +42439,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "water-filter",
@@ -41965,7 +42525,8 @@
           "label": "Water Filters Video"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "water-pump",
@@ -42041,7 +42602,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "white-flag",
@@ -42116,7 +42678,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "white-flag-blueprint",
@@ -42190,7 +42753,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "white-indigo-warden-color",
@@ -42264,7 +42828,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "wind-sprite-ship-model",
@@ -42338,7 +42903,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "wires-recipe",
@@ -42412,7 +42978,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "wolfpack",
@@ -42493,7 +43060,8 @@
           "label": "How to Farm Wolfpacks Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "wolfpack-recipe",
@@ -42572,7 +43140,8 @@
           "label": "Wolfpack Blueprint Guide"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "yellow-light-stick",
@@ -42646,7 +43215,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "yellow-light-stick-blueprint",
@@ -42725,7 +43295,8 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "yellow-radio-renegade-color",
@@ -42799,7 +43370,8 @@
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     },
     {
       "id": "zipline",
@@ -42876,7 +43448,8 @@
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "game_asset_id": -9999
+      "game_asset_id": -9999,
+      "article": null
     }
   ]
 }
