@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T10:27:00.173Z",
+  "updatedAt": "2026-05-07T10:34:38.795Z",
   "count": 573,
   "data": [
     {
@@ -31781,7 +31781,7 @@
       "flavor_text": null,
       "subcategory": null,
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-06T12:37:44.280528+00:00",
       "loot_area": "Industrial",
       "sources": null,
       "ammo_type": null,
@@ -31797,7 +31797,7 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": "<p>Rusted Gear is a rare resource in ARC Raiders used for Gunsmith level 3 upgrade. <a href=\"https://metaforge.app/arc-raiders/database/item/rusted-gear\" target=\"_blank\">Rusted Gears</a> spawn primarily inside vehicles with intact hoods and industrial containers across all maps.</p><p></p><p><strong>Best Rusted Gear Farming Locations:</strong></p><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> — The Controlled Access Zone currently has the highest Rusted Gear spawn rate in the game. Also check the buses and cars next to northern extract and service trucks in the Scrapyard.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> — Checkpoint and Underground garage beneath the warehouse packed with searchable vehicles.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> — Focus on rocket assembly and vehicle maintenance areas.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> — Green breachable containers in the Loading Bay.</p></li></ul><p></p><p><strong>Tips to Maximize Rusted Gear Drops:</strong> Prioritize zones tagged \"Industrial\" on the map. Breach vehicles with closed hoods. Run night raids for higher spawn rates and better loot quality.</p>"
     },
     {
       "id": "rusted-shut-medical-kit",
