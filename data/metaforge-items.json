@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T10:34:38.795Z",
+  "updatedAt": "2026-05-08T09:52:45.846Z",
   "count": 573,
   "data": [
     {
@@ -76,7 +76,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "adrenaline-shot",
@@ -154,7 +155,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "advanced-arc-powercell",
@@ -229,7 +231,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "advanced-electrical-components",
@@ -306,7 +309,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "advanced-mechanical-components",
@@ -383,7 +387,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "agave",
@@ -458,7 +463,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "agave-juice",
@@ -536,7 +542,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "air-freshener",
@@ -613,7 +620,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "alarm-clock",
@@ -688,7 +696,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "alien-duck",
@@ -763,7 +772,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ancient-fort-security-code",
@@ -843,7 +853,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "angled-grip-i",
@@ -903,7 +914,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "angled-grip-ii",
@@ -963,7 +975,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "angled-grip-ii-recipe",
@@ -1043,7 +1056,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "angled-grip-iii",
@@ -1103,7 +1117,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "angled-grip-iii-recipe",
@@ -1183,7 +1198,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "antiseptic",
@@ -1260,7 +1276,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "anvil-recipe",
@@ -1340,7 +1357,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "anvil-i",
@@ -1418,7 +1436,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "anvil-ii",
@@ -1493,7 +1512,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "anvil-iii",
@@ -1569,7 +1589,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "anvil-iv",
@@ -1645,7 +1666,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "anvil-splitter",
@@ -1705,7 +1727,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "aphelion-rifle",
@@ -1780,7 +1803,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "aphelion-rifle-blueprint",
@@ -1860,7 +1884,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "apricot",
@@ -1946,7 +1971,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-alloy",
@@ -2023,7 +2049,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-circuitry",
@@ -2100,7 +2127,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-coolant",
@@ -2175,7 +2203,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-flex-rubber",
@@ -2252,7 +2281,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-motion-core",
@@ -2329,7 +2359,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-performance-steel",
@@ -2404,7 +2435,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-powercell",
@@ -2481,7 +2513,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-synthetic-resin",
@@ -2556,7 +2589,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arc-thermo-lining",
@@ -2631,7 +2665,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arpeggio-i",
@@ -2709,7 +2744,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arpeggio-ii",
@@ -2784,7 +2820,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arpeggio-iii",
@@ -2860,7 +2897,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "arpeggio-iv",
@@ -2936,7 +2974,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "assessor-matrix",
@@ -3011,7 +3050,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "assorted-seeds",
@@ -3086,7 +3126,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "aviator-outfit",
@@ -3161,7 +3202,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bag-radio-renegade-variant",
@@ -3236,7 +3278,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "banana-backpack-charm",
@@ -3311,7 +3354,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bandage",
@@ -3389,7 +3433,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "barricade-kit",
@@ -3466,7 +3511,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "barricade-kit-recipe",
@@ -3546,7 +3592,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bastion-part",
@@ -3623,7 +3670,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "battery",
@@ -3698,7 +3746,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bettina-blueprint",
@@ -3778,7 +3827,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bettina-i",
@@ -3853,7 +3903,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bettina-ii",
@@ -3928,7 +3979,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bettina-iii",
@@ -4003,7 +4055,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bettina-iv",
@@ -4078,7 +4131,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bicycle-pump",
@@ -4153,7 +4207,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "binoculars",
@@ -4230,7 +4285,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bison-driver",
@@ -4278,7 +4334,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "black-eye-face-style",
@@ -4353,7 +4410,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "black-hiker-colour",
@@ -4426,7 +4484,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "black-and-white-origin-color",
@@ -4501,7 +4560,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blaze-grenade",
@@ -4578,7 +4638,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blaze-grenade-blueprint",
@@ -4658,7 +4719,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blaze-grenade-trap",
@@ -4733,7 +4795,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bloated-tuna-can",
@@ -4810,7 +4873,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-gate-cellar-key",
@@ -4894,7 +4958,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-gate-communication-tower-key",
@@ -4974,7 +5039,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-gate-confiscation-room-key",
@@ -5054,7 +5120,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-gate-village-key",
@@ -5129,7 +5196,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-light-stick",
@@ -5204,7 +5272,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-light-stick-blueprint",
@@ -5284,7 +5353,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-radio-renegade-color",
@@ -5359,7 +5429,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "blue-yellow-aviator-color",
@@ -5434,7 +5505,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bobcat-i-recipe",
@@ -5514,7 +5586,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bobcat-i",
@@ -5592,7 +5665,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bobcat-ii",
@@ -5667,7 +5741,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bobcat-iii",
@@ -5742,7 +5817,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bobcat-iv",
@@ -5817,7 +5893,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bombardier-cell",
@@ -5892,7 +5969,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "bow-and-arrow-emote",
@@ -5967,7 +6045,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "breathtaking-snow-globe",
@@ -6042,7 +6121,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "briefcase-backpack-attachment",
@@ -6117,7 +6197,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "broken-flashlight",
@@ -6192,7 +6273,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "broken-guidance-system",
@@ -6267,7 +6349,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "broken-handcuffs",
@@ -6307,7 +6390,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "broken-handheld-radio",
@@ -6382,7 +6466,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "broken-taser",
@@ -6457,7 +6542,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burgerboy-backpack-charm",
@@ -6532,7 +6618,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "buried-city-hospital-key",
@@ -6612,7 +6699,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "buried-city-jkv-employee-access-card",
@@ -6687,7 +6775,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "buried-city-residential-master-key",
@@ -6775,7 +6864,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "buried-city-town-hall-key",
@@ -6855,7 +6945,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burltetta-recipe",
@@ -6935,7 +7026,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burletta-i",
@@ -7013,7 +7105,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burletta-ii",
@@ -7088,7 +7181,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burletta-iiii",
@@ -7163,7 +7257,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burletta-iv",
@@ -7238,7 +7333,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burned-arc-circuitry",
@@ -7313,7 +7409,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "burnt-out-candles",
@@ -7388,7 +7485,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "camera-lens",
@@ -7465,7 +7563,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "candleberries",
@@ -7540,7 +7639,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "candle-holder",
@@ -7615,7 +7715,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "canister",
@@ -7692,7 +7793,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "cans-backpack-attachment",
@@ -7754,7 +7856,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "canto-blueprint",
@@ -7838,7 +7941,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "canto",
@@ -7913,7 +8017,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "canto-ii",
@@ -7988,7 +8093,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "canto-iii",
@@ -8063,7 +8169,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "canto-iv",
@@ -8138,7 +8245,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "cat-bed",
@@ -8224,7 +8332,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "cheer-emote",
@@ -8297,7 +8406,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "chemicals",
@@ -8374,7 +8484,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "coffee-pot",
@@ -8451,7 +8562,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "coins",
@@ -8526,7 +8638,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "combat-mk-1",
@@ -8601,7 +8714,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "combat-mk-2",
@@ -8678,7 +8792,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "combat-mk-3-aggressive",
@@ -8755,7 +8870,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "combat-mk3-aggressive-blueprint",
@@ -8835,7 +8951,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "combat-mk3-flanking",
@@ -8911,7 +9028,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "combat-mk-3-flanking",
@@ -8991,7 +9109,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "comet-igniter",
@@ -9066,7 +9185,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "compensator-i",
@@ -9126,7 +9246,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "compensator-ii",
@@ -9187,7 +9308,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "compensator-ii-recipe",
@@ -9267,7 +9389,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "compensator-iii",
@@ -9330,7 +9453,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "compensator-iii-recipe",
@@ -9410,7 +9534,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "complex-gun-parts",
@@ -9485,7 +9610,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "complex-gun-parts-blueprint",
@@ -9565,7 +9691,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "coolant",
@@ -9640,7 +9767,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "cooling-coil",
@@ -9715,7 +9843,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "cooling-fan",
@@ -9795,7 +9924,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "cracked-bioscanner",
@@ -9870,7 +10000,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "crash-mat",
@@ -9951,7 +10082,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "crash-mat-blueprint",
@@ -10031,7 +10163,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "crimson-racer-aviator-colour",
@@ -10106,7 +10239,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "crude-explosives",
@@ -10181,7 +10315,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "crumpled-plastic-bottle",
@@ -10256,7 +10391,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "damaged-arc-motion-core",
@@ -10331,7 +10467,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "damaged-arc-powercell",
@@ -10406,7 +10543,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "damaged-fireball-burner",
@@ -10481,7 +10619,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "damaged-heat-sink",
@@ -10567,7 +10706,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "danaged-hornet-driver",
@@ -10642,7 +10782,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "damaged-rocketeer-part",
@@ -10717,7 +10858,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "damaged-tick-pod",
@@ -10794,7 +10936,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "damaged-wasp-driver",
@@ -10869,7 +11012,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dam-control-center-tower-key",
@@ -10949,7 +11093,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dam-controlled-access-zone-key",
@@ -11024,7 +11169,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dam-staff-room-key",
@@ -11104,7 +11250,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dam-surveillance-key",
@@ -11184,7 +11331,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dam-testing-annex-key",
@@ -11268,7 +11416,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dam-utility-key",
@@ -11341,7 +11490,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dart-board",
@@ -11418,7 +11568,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "deadline",
@@ -11493,7 +11644,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "deadline-blueprint",
@@ -11573,7 +11725,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "defibrillator",
@@ -11651,7 +11804,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "defibrillator-recipe",
@@ -11731,7 +11885,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "deflated-football",
@@ -11808,7 +11963,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "degraded-arc-rubber",
@@ -11883,7 +12039,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "diving-googles",
@@ -11958,7 +12115,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dockmasters-detector",
@@ -12033,7 +12191,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dog-collar",
@@ -12110,7 +12269,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dolabra",
@@ -12185,7 +12345,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dolabra-blueprint",
@@ -12269,7 +12430,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "doodly-duck",
@@ -12344,7 +12506,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "door-blocker",
@@ -12421,7 +12584,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "dried-out-arc-resin",
@@ -12496,7 +12660,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "duct-tape-recipe",
@@ -12571,7 +12736,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "durable-cloth",
@@ -12646,7 +12812,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "electrical-components",
@@ -12723,7 +12890,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "empty-wine-bottle",
@@ -12800,7 +12968,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "energy-ammo",
@@ -12877,7 +13046,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "equalizer-i",
@@ -12955,7 +13125,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "equalizer-recipe",
@@ -13035,7 +13206,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "esr-analyzer",
@@ -13112,7 +13284,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "exodus-modules",
@@ -13192,7 +13365,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "expired-pasta",
@@ -13267,7 +13441,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "expired-respirator",
@@ -13347,7 +13522,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "explosive-compound",
@@ -13422,7 +13598,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "explosive-mine",
@@ -13500,7 +13677,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "explosive-mine-blueprint",
@@ -13580,7 +13758,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-barrel",
@@ -13640,7 +13819,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-barrel-recipe",
@@ -13720,7 +13900,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-light-mag-i",
@@ -13780,7 +13961,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-light-mag-ii",
@@ -13842,7 +14024,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-light-mag-ii-recipe",
@@ -13922,7 +14105,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-light-mag-iii",
@@ -13982,7 +14166,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-light-mag-iii-recipe",
@@ -14062,7 +14247,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-medium-mag-i",
@@ -14122,7 +14308,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-medium-mag-ii",
@@ -14183,7 +14370,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-medium-mag-ii-recipe",
@@ -14263,7 +14451,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-medium-mag-iii",
@@ -14324,7 +14513,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-medium-mag-iii-blueprint",
@@ -14404,7 +14594,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-shotgun-mag-i",
@@ -14464,7 +14655,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-shotgun-mag-ii",
@@ -14525,7 +14717,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-shotgun-mag-ii-recipe",
@@ -14600,7 +14793,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-shotgun-mag-iii",
@@ -14661,7 +14855,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "extended-shotgun-mag-iii-recipe",
@@ -14741,7 +14936,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fabric",
@@ -14818,7 +15014,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "faded-flush-aviator-color",
@@ -14893,7 +15090,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "faded-photograph",
@@ -14970,7 +15168,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "familiar-duck",
@@ -15045,7 +15244,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ferro-i",
@@ -15123,7 +15323,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ferro-ii",
@@ -15198,7 +15399,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ferro-iii",
@@ -15273,7 +15475,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ferro-iv",
@@ -15349,7 +15552,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fertilizer",
@@ -15424,7 +15628,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "film-reel",
@@ -15501,7 +15706,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fine-wristwatch",
@@ -15576,7 +15782,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "finger-gun-single-shot-emote",
@@ -15651,7 +15858,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fireball-burner",
@@ -15737,7 +15945,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "firecracker",
@@ -15813,7 +16022,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "firefly-burner",
@@ -15888,7 +16098,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fireworks-box",
@@ -15964,7 +16175,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fireworks-box-blueprint",
@@ -16044,13 +16256,14 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "flame-spray",
       "name": "Flame Spray",
       "description": "A classic makeshift weapon, sure to leave scorch marks.",
-      "item_type": "Quick use",
+      "item_type": "Quick Use",
       "loadout_slots": [],
       "icon": "https://cdn.metaforge.app/arc-raiders/icons/flame-spray.webp",
       "rarity": "Uncommon",
@@ -16111,7 +16324,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2025-10-23T09:10:12.778781+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-07T17:35:33.710226+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -16119,7 +16332,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "flashy-duck",
@@ -16194,7 +16408,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "flow-controller",
@@ -16269,7 +16484,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "flushing-terminal-key",
@@ -16344,7 +16560,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fossilized-lightning",
@@ -16419,7 +16636,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "free-loadout-augment",
@@ -16495,7 +16713,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "frequency-modulation-box",
@@ -16570,7 +16789,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fried-motherboard",
@@ -16656,7 +16876,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "fruit-mix",
@@ -16735,7 +16956,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "frying-pan",
@@ -16810,7 +17032,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "garlic-press",
@@ -16885,7 +17108,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "gas-grenade",
@@ -16962,7 +17186,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "gas-grenade-trap",
@@ -17037,7 +17262,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "gas-mine",
@@ -17112,7 +17338,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "gas-mine-blueprint",
@@ -17192,7 +17419,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "geiger-counter",
@@ -17272,7 +17500,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "gentle-duck",
@@ -17347,7 +17576,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "goggles-radio-renegade-variant",
@@ -17422,7 +17652,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "gothic-graffiti-aviator-color",
@@ -17497,7 +17728,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "great-muullein",
@@ -17572,7 +17804,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "green-light-stick",
@@ -17647,7 +17880,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "green-light-stick-blueprint",
@@ -17727,7 +17961,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hairpin-i",
@@ -17805,7 +18040,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hairpin-ii",
@@ -17880,7 +18116,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hairpin-iii",
@@ -17955,7 +18192,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hairpin-iv",
@@ -18030,7 +18268,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "happy-jig-emote",
@@ -18105,7 +18344,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "headphones",
@@ -18180,7 +18420,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "heavy-ammo",
@@ -18257,7 +18498,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "heavy-fuze-grenade",
@@ -18334,7 +18576,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "heavy-gun-parts",
@@ -18411,7 +18654,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "heavy-gun-parts-recipe",
@@ -18491,7 +18735,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "heavy-shield",
@@ -18570,7 +18815,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "helmet-radio-renegade-variant",
@@ -18645,7 +18891,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "herbal-bandage",
@@ -18723,7 +18970,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "horizontal-grip",
@@ -18782,7 +19030,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hornet-driver",
@@ -18864,7 +19113,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "household-cleaner",
@@ -18939,7 +19189,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hullcracker-blueprint",
@@ -19019,7 +19270,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hullcracker-i",
@@ -19094,7 +19346,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hullcracker-ii",
@@ -19169,7 +19422,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hullcracker-iii",
@@ -19244,7 +19498,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "hullcracker-iv",
@@ -19319,7 +19574,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "humidifier",
@@ -19399,7 +19655,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ice-cream-scooper",
@@ -19474,7 +19731,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "il-toro-recipe",
@@ -19554,7 +19812,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "il-toro-i",
@@ -19633,7 +19892,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "il-toro-ii",
@@ -19708,7 +19968,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "il-toro-iiii",
@@ -19783,7 +20044,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "il-toro-iv",
@@ -19858,7 +20120,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "impure-arc-coolant",
@@ -19933,7 +20196,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "industrial-battery",
@@ -20010,7 +20274,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "industrial-charger",
@@ -20085,7 +20350,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "industrial-magnet",
@@ -20160,7 +20426,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ion-sputter",
@@ -20235,7 +20502,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "jolt-mine",
@@ -20312,7 +20580,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "jolt-mine-recipe",
@@ -20392,7 +20661,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "junior-outfit",
@@ -20454,7 +20724,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "jupiter-i",
@@ -20532,7 +20803,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "jupiter-i-recipe",
@@ -20612,7 +20884,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "kettle-i",
@@ -20690,7 +20963,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "kettle-ii",
@@ -20765,7 +21039,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "kettle-iii",
@@ -20840,7 +21115,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "kettle-iv",
@@ -20915,7 +21191,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "kinetic-converter",
@@ -20976,7 +21253,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "laboratory-reagents",
@@ -21062,7 +21340,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lances-mixtape-5th-edition",
@@ -21139,7 +21418,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "laser-trap-lure-recipe",
@@ -21185,7 +21465,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "launcher-ammo",
@@ -21260,7 +21541,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "leaper-pulse-unit",
@@ -21336,7 +21618,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lemon",
@@ -21422,7 +21705,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "leviathans-crown-ship-model",
@@ -21497,7 +21781,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lidar-scanner",
@@ -21572,7 +21857,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "light-ammo",
@@ -21649,7 +21935,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "light-bulb",
@@ -21735,7 +22022,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "light-gun-parts",
@@ -21812,7 +22100,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "light-gun-parts-recipe",
@@ -21892,7 +22181,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "light-impact-grenade",
@@ -21969,7 +22259,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "light-shield",
@@ -22048,7 +22339,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lightweight-stock",
@@ -22113,7 +22405,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lightweight-stock-recipe",
@@ -22193,7 +22486,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lil-smoke-grenade",
@@ -22268,7 +22562,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "looting-mk-1",
@@ -22343,7 +22638,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "looting-mk-2",
@@ -22420,7 +22716,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "looting-mk-3-cautious",
@@ -22496,7 +22793,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "looting-mk-3-safekeeper",
@@ -22573,7 +22871,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "looting-mk-3-safekeeper-blueprint",
@@ -22648,7 +22947,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "looting-mk-3-survivor",
@@ -22726,7 +23026,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "looting-mk-3-survivor-blueprint",
@@ -22806,7 +23107,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lure-grenade",
@@ -22883,7 +23185,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lure-grenade-recipe",
@@ -22963,7 +23266,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "lure-grenade-trap",
@@ -23039,7 +23343,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "magnet",
@@ -23114,7 +23419,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "magnetic-accelerator",
@@ -23194,7 +23500,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "magnetron",
@@ -23269,7 +23576,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "mastery-medal-backpack-charm",
@@ -23344,7 +23652,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "matriarch-reactor",
@@ -23419,7 +23728,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "mechanical-components",
@@ -23496,7 +23806,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "medium-ammo",
@@ -23573,7 +23884,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "medium-gun-parts",
@@ -23650,7 +23962,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "medium-gun-parts-recipe",
@@ -23730,7 +24043,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "medium-shield",
@@ -23811,7 +24125,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "metal-brackets",
@@ -23886,7 +24201,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "metal-parts",
@@ -23963,7 +24279,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "microscope",
@@ -24038,7 +24355,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "mini-centrifuge",
@@ -24113,7 +24431,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "mod-components",
@@ -24190,7 +24509,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "moss",
@@ -24270,7 +24590,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "motor",
@@ -24356,7 +24677,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "mushroom",
@@ -24440,7 +24762,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "music-album",
@@ -24517,7 +24840,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "music-box",
@@ -24594,7 +24918,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "muzzle-brake-i",
@@ -24654,7 +24979,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "muzzle-brake-ii",
@@ -24715,7 +25041,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "muzzle-brake-ii-recipe",
@@ -24795,7 +25122,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "muzzle-brake-iii",
@@ -24857,7 +25185,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "muzzle-brake-iii-recipe",
@@ -24937,7 +25266,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "noisemaker",
@@ -25012,7 +25342,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "number-plate",
@@ -25087,7 +25418,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "oil",
@@ -25169,7 +25501,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "olives",
@@ -25253,7 +25586,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "orange-camo-origin-outfit",
@@ -25328,7 +25662,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "osprey-recipe",
@@ -25408,7 +25743,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "osprey-i",
@@ -25486,7 +25822,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "osprey-ii",
@@ -25561,7 +25898,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "osprey-iii",
@@ -25636,7 +25974,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "osprey-iv",
@@ -25711,7 +26050,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "padded-stock",
@@ -25775,7 +26115,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "padded-stock-recipe",
@@ -25855,7 +26196,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "painted-box",
@@ -25930,7 +26272,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "patchwork-warden-color",
@@ -26005,7 +26348,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "patrol-car-key",
@@ -26085,7 +26429,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "patrol-outfit",
@@ -26160,7 +26505,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "photoelectric-cloak",
@@ -26237,7 +26583,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "pilgrims-peak-security-code",
@@ -26317,7 +26664,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "plastic-parts",
@@ -26394,7 +26742,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "playing-cards",
@@ -26471,7 +26820,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "polluted-air-filter",
@@ -26546,7 +26896,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "pop-trigger",
@@ -26630,7 +26981,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "portable-television",
@@ -26707,7 +27059,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "poster-natural-wonder",
@@ -26784,7 +27137,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "pottery",
@@ -26861,7 +27215,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "power-bank",
@@ -26936,7 +27291,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "power-cable",
@@ -27013,7 +27369,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "powered-descender",
@@ -27093,7 +27450,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "powered-descender-blueprint",
@@ -27173,7 +27531,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "power-rod",
@@ -27250,7 +27609,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "prickly-pear",
@@ -27334,7 +27694,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "processor",
@@ -27409,7 +27770,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "projector",
@@ -27484,7 +27846,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "pulse-mine",
@@ -27559,7 +27922,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "pulse-mine-blueprint",
@@ -27639,7 +28003,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "queen-reactor",
@@ -27714,7 +28079,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "radio",
@@ -27789,7 +28155,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "radio-relay",
@@ -27864,7 +28231,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "radio-renegade-outfit",
@@ -27939,7 +28307,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "raider-hatch-key",
@@ -28016,7 +28385,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "raiders-refuge-security-code",
@@ -28096,7 +28466,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "raider-tokens",
@@ -28171,7 +28542,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rattler-i",
@@ -28249,7 +28621,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rattler-ii",
@@ -28324,7 +28697,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rattler-iii",
@@ -28399,7 +28773,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rattler-iv",
@@ -28474,7 +28849,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "recorder",
@@ -28549,7 +28925,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "red-coral-jewelry",
@@ -28626,7 +29003,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "red-light-stick",
@@ -28701,7 +29079,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "red-light-stick-blueprint",
@@ -28781,7 +29160,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "red-radio-renegade-color",
@@ -28856,7 +29236,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "reinforced-reception-security-code",
@@ -28936,7 +29317,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "remote-control",
@@ -29011,7 +29393,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "remote-raider-flare",
@@ -29088,7 +29471,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "remote-raider-flare-blueprint",
@@ -29168,7 +29552,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "renegade-i",
@@ -29246,7 +29631,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "renegade-ii",
@@ -29321,7 +29707,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "renegade-iii",
@@ -29396,7 +29783,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "renegade-iv",
@@ -29471,7 +29859,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "resin",
@@ -29546,7 +29935,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ripped-safety-vest",
@@ -29621,7 +30011,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-classifed-records-keycard",
@@ -29696,7 +30087,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-crane-house-keycard",
@@ -29771,7 +30163,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-102",
@@ -29851,7 +30244,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-107",
@@ -29931,7 +30325,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-113",
@@ -30011,7 +30406,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-205",
@@ -30091,7 +30487,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-208",
@@ -30171,7 +30568,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-311",
@@ -30251,7 +30649,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-hotel-keycard-no-404",
@@ -30331,7 +30730,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "riven-tides-secure-storage-keycard",
@@ -30411,7 +30811,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rocketeer-part",
@@ -30509,7 +30910,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rocket-thruster",
@@ -30584,7 +30986,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "roots",
@@ -30659,7 +31062,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rope",
@@ -30734,7 +31138,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rosary",
@@ -30809,7 +31214,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rotary-encoder",
@@ -30884,7 +31290,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rubber-duck",
@@ -30961,7 +31368,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rubber-pad",
@@ -31036,7 +31444,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rubber-parts-recipe",
@@ -31111,7 +31520,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ruined-accordion",
@@ -31186,7 +31596,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ruined-augment",
@@ -31261,7 +31672,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ruined-baton",
@@ -31336,7 +31748,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ruined-handcuffs",
@@ -31411,7 +31824,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ruined-parachute",
@@ -31486,7 +31900,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ruined-riot-shield",
@@ -31561,7 +31976,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "ruined-tactical-vest",
@@ -31636,7 +32052,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rusted-bolts",
@@ -31711,7 +32128,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rusted-gear",
@@ -31797,7 +32215,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": "<p>Rusted Gear is a rare resource in ARC Raiders used for Gunsmith level 3 upgrade. <a href=\"https://metaforge.app/arc-raiders/database/item/rusted-gear\" target=\"_blank\">Rusted Gears</a> spawn primarily inside vehicles with intact hoods and industrial containers across all maps.</p><p></p><p><strong>Best Rusted Gear Farming Locations:</strong></p><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> — The Controlled Access Zone currently has the highest Rusted Gear spawn rate in the game. Also check the buses and cars next to northern extract and service trucks in the Scrapyard.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> — Checkpoint and Underground garage beneath the warehouse packed with searchable vehicles.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> — Focus on rocket assembly and vehicle maintenance areas.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> — Green breachable containers in the Loading Bay.</p></li></ul><p></p><p><strong>Tips to Maximize Rusted Gear Drops:</strong> Prioritize zones tagged \"Industrial\" on the map. Breach vehicles with closed hoods. Run night raids for higher spawn rates and better loot quality.</p>"
+      "article": "<p>Rusted Gear is a rare resource in ARC Raiders used for Gunsmith level 3 upgrade. <a href=\"https://metaforge.app/arc-raiders/database/item/rusted-gear\" target=\"_blank\">Rusted Gears</a> spawn primarily inside vehicles with intact hoods and industrial containers across all maps.</p><p></p><p><strong>Best Rusted Gear Farming Locations:</strong></p><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> — The Controlled Access Zone currently has the highest Rusted Gear spawn rate in the game. Also check the buses and cars next to northern extract and service trucks in the Scrapyard.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> — Checkpoint and Underground garage beneath the warehouse packed with searchable vehicles.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> — Focus on rocket assembly and vehicle maintenance areas.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> — Green breachable containers in the Loading Bay.</p></li></ul><p></p><p><strong>Tips to Maximize Rusted Gear Drops:</strong> Prioritize zones tagged \"Industrial\" on the map. Breach vehicles with closed hoods. Run night raids for higher spawn rates and better loot quality.</p>",
+      "guide_url": null
     },
     {
       "id": "rusted-shut-medical-kit",
@@ -31879,7 +32298,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rusted-tools",
@@ -31956,7 +32376,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "rusty-arc-steel",
@@ -32031,7 +32452,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "sample-cleaner",
@@ -32106,7 +32528,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "seeker-grenade",
@@ -32181,7 +32604,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "seeker-grenade-blueprint",
@@ -32261,7 +32685,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "sensors-recipe",
@@ -32336,7 +32761,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "sentinel-part",
@@ -32422,7 +32848,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shaker",
@@ -32498,7 +32925,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shield-recharger",
@@ -32576,7 +33004,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-ammo",
@@ -32653,7 +33082,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-choke-i",
@@ -32713,7 +33143,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-choke-ii",
@@ -32773,7 +33204,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-choke-ii-recipe",
@@ -32853,7 +33285,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-choke-iii",
@@ -32915,7 +33348,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-choke-iii-recipe",
@@ -32995,7 +33429,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-gun-parts",
@@ -33043,13 +33478,14 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-silencer",
       "name": "Shotgun Silencer",
       "description": "Moderately reduces the amount of noise produced when firing.",
-      "item_type": "Mods",
+      "item_type": "Modification",
       "loadout_slots": [
         "backpack",
         "safePocket"
@@ -33065,62 +33501,45 @@
         "radius": 0,
         "shield": 0,
         "weight": 0.5,
-        "agility": 0,
         "arcStun": 0,
         "healing": 0,
         "stamina": 0,
-        "stealth": 0,
         "useTime": 0,
         "duration": 0,
         "fireRate": 0,
         "stability": 0,
-        "stackSize": 0,
+        "stackSize": 1,
         "damageMult": 0,
         "raiderStun": 0,
         "weightLimit": 0,
         "augmentSlots": 0,
         "healingSlots": 0,
-        "magazineSize": 0,
-        "reducedNoise": 0,
         "shieldCharge": 0,
         "backpackSlots": 0,
         "quickUseSlots": 0,
         "damagePerSecond": 0,
-        "movementPenalty": 0,
         "safePocketSlots": 0,
         "damageMitigation": 0,
         "healingPerSecond": 0,
-        "reducedEquipTime": 0,
         "staminaPerSecond": 0,
-        "increasedADSSpeed": 0,
-        "increasedFireRate": 0,
         "reducedReloadTime": 0,
         "illuminationRadius": 0,
-        "increasedEquipTime": 0,
-        "reducedUnequipTime": 0,
         "shieldCompatibility": "",
-        "increasedUnequipTime": 0,
-        "reducedVerticalRecoil": 0,
-        "increasedBulletVelocity": 0,
-        "increasedVerticalRecoil": 0,
         "reducedMaxShotDispersion": 0,
-        "reducedPerShotDispersion": 0,
-        "reducedDurabilityBurnRate": 0,
-        "reducedRecoilRecoveryTime": 0,
-        "increasedRecoilRecoveryTime": 0,
-        "reducedDispersionRecoveryTime": 0
+        "reducedDurabilityBurnRate": 0
       },
       "flavor_text": null,
       "subcategory": null,
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-07T17:35:15.002617+00:00",
       "loot_area": null,
       "sources": null,
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shotgun-silencer-blueprint",
@@ -33200,7 +33619,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "showstopper",
@@ -33277,7 +33697,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "showstopper-blueprint",
@@ -33357,7 +33778,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shrapnel-grenade",
@@ -33432,7 +33854,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "shredder-gyro",
@@ -33516,7 +33939,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "signal-amplifier",
@@ -33591,7 +34015,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "silencer-i",
@@ -33652,7 +34077,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "silencer-i-recipe",
@@ -33732,7 +34158,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "silencer-ii",
@@ -33794,7 +34221,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "silencer-ii-recipe",
@@ -33874,7 +34302,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "silencer-iii",
@@ -33936,7 +34365,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "silver-teaspoon-set",
@@ -34013,7 +34443,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "simple-gun-parts",
@@ -34090,7 +34521,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "sirena-dorata-ship-model",
@@ -34165,7 +34597,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "smoke-grenade",
@@ -34242,7 +34675,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "smoke-grenade-blueprint",
@@ -34322,7 +34756,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "laser-trap-smoke-recipe",
@@ -34397,7 +34832,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "snap-blast-grenade",
@@ -34474,7 +34910,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "snap-hook",
@@ -34551,7 +34988,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "snap-hook-recipe",
@@ -34631,7 +35069,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "snitch-scanner",
@@ -34721,7 +35160,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "snowball",
@@ -34805,7 +35245,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spaceport-container-storage-key",
@@ -34885,7 +35326,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spaceport-ground-control-key",
@@ -34965,7 +35407,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spaceport-trench-tower-key",
@@ -35045,7 +35488,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spaceport-warehouse-key",
@@ -35125,7 +35569,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "speaker-component",
@@ -35200,7 +35645,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spectrometer",
@@ -35275,7 +35721,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spectrum-analyzer",
@@ -35350,7 +35797,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spotter-relay",
@@ -35425,7 +35873,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spring-cushion",
@@ -35500,7 +35949,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stable-stock-i",
@@ -35561,7 +36011,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stable-stock-ii",
@@ -35624,7 +36075,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stable-stock-ii-recipe",
@@ -35704,7 +36156,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stable-stock-iii",
@@ -35768,7 +36221,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stable-stock-iii-recipe",
@@ -35848,7 +36302,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stack-of-movie-tapes",
@@ -35923,7 +36378,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "statuette",
@@ -36000,7 +36456,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "spring",
@@ -36077,7 +36534,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stella-montis-archives-key",
@@ -36157,7 +36615,8 @@
       ],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stella-montis-assembly-admin-key",
@@ -36232,7 +36691,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stella-montis-medical-storage-key",
@@ -36307,7 +36767,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stella-montis-security-checkpoint-key",
@@ -36382,7 +36843,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "sterilized-bandage",
@@ -36460,7 +36922,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stitcher-i",
@@ -36538,7 +37001,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stitcher-ii",
@@ -36613,7 +37077,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stitcher-iii",
@@ -36688,7 +37153,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "stitcher-iv",
@@ -36763,7 +37229,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "succulent-backpack-charm",
@@ -36838,7 +37305,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "surge-coil",
@@ -36913,7 +37381,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "surge-coil-blueprint",
@@ -36997,7 +37466,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "surge-shield-recharger",
@@ -37072,7 +37542,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "surveyor-vault",
@@ -37156,7 +37627,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "synthesized-fuel",
@@ -37233,7 +37705,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "syringe",
@@ -37310,7 +37783,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk-1",
@@ -37386,7 +37860,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk-2",
@@ -37463,7 +37938,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk3-defensive",
@@ -37539,7 +38015,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk3-defensive-blueprint",
@@ -37619,7 +38096,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk-3-healing",
@@ -37696,7 +38174,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tacical-mk3-healing-blueprint",
@@ -37771,7 +38250,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk-3-revival",
@@ -37847,7 +38327,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk-3-revival-blueprint",
@@ -37927,7 +38408,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tactical-mk-3-smoke",
@@ -38003,7 +38485,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "utility-augment-t3-smoke-blueprint",
@@ -38078,7 +38561,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tagging-grenade",
@@ -38155,7 +38639,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tagging-grenade-recipe",
@@ -38235,7 +38720,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tangerine-warden-color",
@@ -38310,7 +38796,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tattered-arc-lining",
@@ -38385,7 +38872,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tattered-clothes",
@@ -38460,7 +38948,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "telemetry-transceiver",
@@ -38535,7 +39024,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tempest-i-recipe",
@@ -38615,7 +39105,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tempest-i",
@@ -38693,7 +39184,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tempest-ii",
@@ -38768,7 +39260,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tempest-iii",
@@ -38843,7 +39336,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tempest-iv",
@@ -38918,7 +39412,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "thermostat",
@@ -38993,7 +39488,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tick-pod",
@@ -39070,7 +39566,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "toaster",
@@ -39147,7 +39644,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torch-ginger",
@@ -39193,7 +39691,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torn-blanket",
@@ -39270,7 +39769,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torn-book",
@@ -39345,7 +39845,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torrent-i-recipe",
@@ -39425,7 +39926,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torrente-i",
@@ -39503,7 +40005,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torrente-ii",
@@ -39578,7 +40081,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torrente-iii",
@@ -39653,7 +40157,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "torrente-iv",
@@ -39728,7 +40233,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "trailblazer-grenade",
@@ -39803,7 +40309,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "trailblazer-grenade-blueprint",
@@ -39883,7 +40390,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "trigger-nade",
@@ -39958,7 +40466,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "trigger-nade-recipe",
@@ -40038,7 +40547,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "tropical-duck",
@@ -40113,7 +40623,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "turbine-compressor",
@@ -40188,7 +40699,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "turbo-pump",
@@ -40263,7 +40775,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "twilight-compass-ship-model",
@@ -40338,7 +40851,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "unusable-weapon",
@@ -40413,7 +40927,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vaporizer-regulator",
@@ -40488,7 +41003,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vase",
@@ -40565,7 +41081,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "velocity-ship-model",
@@ -40640,7 +41157,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "venator-recipe",
@@ -40720,7 +41238,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "venator-i",
@@ -40798,7 +41317,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "venator-ii",
@@ -40874,7 +41394,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "venator-iii",
@@ -40949,7 +41470,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "venator-iv",
@@ -41024,7 +41546,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vertical-grip-i",
@@ -41084,7 +41607,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vertical-grip-ii",
@@ -41145,7 +41669,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vertical-grip-ii-recipe",
@@ -41225,7 +41750,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vertical-grip-iii",
@@ -41286,7 +41812,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vertical-grip-iii-recipe",
@@ -41366,7 +41893,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "very-comfortable-pillow",
@@ -41452,7 +41980,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vita-shot",
@@ -41530,7 +42059,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vita-shot-recipe",
@@ -41610,7 +42140,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vita-spray",
@@ -41688,7 +42219,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vita-spray-recipe",
@@ -41768,7 +42300,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "volcanic-rock",
@@ -41843,7 +42376,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "voltage-converter",
@@ -41920,7 +42454,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vulcano-blueprint",
@@ -42004,7 +42539,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vulcano-i",
@@ -42082,7 +42618,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vulcano-ii",
@@ -42158,7 +42695,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vulcano-iii",
@@ -42233,7 +42771,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "vulcano-iv",
@@ -42308,7 +42847,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "warden-outfit",
@@ -42383,7 +42923,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "wasp-driver",
@@ -42460,7 +43001,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "water-filter",
@@ -42546,7 +43088,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "water-pump",
@@ -42623,7 +43166,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "white-flag",
@@ -42704,7 +43248,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "white-flag-blueprint",
@@ -42784,7 +43329,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "white-indigo-warden-color",
@@ -42859,7 +43405,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "wind-sprite-ship-model",
@@ -42934,7 +43481,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "wires-recipe",
@@ -43009,7 +43557,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "wolfpack",
@@ -43091,7 +43640,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "wolfpack-recipe",
@@ -43171,7 +43721,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "yellow-light-stick",
@@ -43246,7 +43797,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "yellow-light-stick-blueprint",
@@ -43326,7 +43878,8 @@
         }
       ],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "yellow-radio-renegade-color",
@@ -43401,7 +43954,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     },
     {
       "id": "zipline",
@@ -43479,7 +44033,8 @@
       "locations": [],
       "guide_links": [],
       "game_asset_id": -9999,
-      "article": null
+      "article": null,
+      "guide_url": null
     }
   ]
 }
