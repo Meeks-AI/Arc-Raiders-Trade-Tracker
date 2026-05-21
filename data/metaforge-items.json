@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T11:20:12.973Z",
+  "updatedAt": "2026-05-21T11:36:28.992Z",
   "count": 581,
   "data": [
     {
@@ -32466,7 +32466,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-05-12T15:03:07.149719+00:00",
+      "updated_at": "2026-05-21T09:27:49.207255+00:00",
       "shield_type": null,
       "loot_area": "Industrial",
       "sources": null,
@@ -32474,16 +32474,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-rusted-gear-in-arc-raiders",
-          "label": "Rusted Gear Guide"
-        },
-        {
           "url": "https://youtu.be/v9vN_EOkq5Y",
           "label": "Rusted Gear Video"
         }
       ],
       "article": "<p>Rusted Gear is a rare resource in ARC Raiders used for Gunsmith level 3 upgrade. <a href=\"https://metaforge.app/arc-raiders/database/item/rusted-gear\" target=\"_blank\">Rusted Gears</a> spawn primarily inside vehicles with intact hoods and industrial containers across all maps.</p><p></p><p><strong>Best Rusted Gear Farming Locations:</strong></p><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> — The Controlled Access Zone currently has the highest Rusted Gear spawn rate in the game. Also check the buses and cars next to northern extract and service trucks in the Scrapyard.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> — Checkpoint and Underground garage beneath the warehouse packed with searchable vehicles.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> — Focus on rocket assembly and vehicle maintenance areas.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> — Green breachable containers in the Loading Bay.</p></li></ul><p></p><p><strong>Tips to Maximize Rusted Gear Drops:</strong> Prioritize zones tagged \"Industrial\" on the map. Breach vehicles with closed hoods. Run night raids for higher spawn rates and better loot quality.</p>",
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-rusted-gear-in-arc-raiders"
     },
     {
       "id": "rusted-shut-medical-kit",
