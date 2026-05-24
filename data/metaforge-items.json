@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T10:04:07.437Z",
+  "updatedAt": "2026-05-24T10:10:03.963Z",
   "count": 581,
   "data": [
     {
@@ -1336,20 +1336,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T07:59:15.006805+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-23T11:51:49.893833+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-anvil-blueprint-in-arc-raiders",
-          "label": "How to Find Anvil Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-anvil-blueprint-in-arc-raiders"
     },
     {
       "id": "anvil-i",
@@ -13070,20 +13065,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:01:44.381613+00:00",
-      "updated_at": "2026-03-04T19:23:37.207017+00:00",
+      "updated_at": "2026-05-23T12:16:36.479473+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-get-the-equalizer-blueprint-in-arc-raiders",
-          "label": "How to Get the Equalizer Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-get-the-equalizer-blueprint-in-arc-raiders"
     },
     {
       "id": "esr-analyzer",
@@ -13228,20 +13218,15 @@
       "flavor_text": "Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
       "subcategory": "Topside Material",
       "created_at": "2025-10-18T20:33:50.849252+00:00",
-      "updated_at": "2026-03-04T19:25:14.886362+00:00",
+      "updated_at": "2026-05-23T11:59:18.784222+00:00",
       "shield_type": "",
       "loot_area": "Exodus",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-exodus-modules-in-arc-raiders",
-          "label": "Where to find Exodus Modules"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-exodus-modules-in-arc-raiders"
     },
     {
       "id": "expired-pasta",
@@ -13637,7 +13622,7 @@
       "description": "Slightly increases bullet velocity & distance until damage falloff.",
       "item_type": "Modification",
       "loadout_slots": [],
-      "icon": "",
+      "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-barrel-i.webp",
       "rarity": "Uncommon",
       "value": 1000,
       "workbench": null,
@@ -13681,7 +13666,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-05-19T17:58:30.826949+00:00",
-      "updated_at": "2026-05-19T17:58:30.826949+00:00",
+      "updated_at": "2026-05-24T09:17:44.091994+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -13757,7 +13742,7 @@
       "description": "Moderately increases bullet velocity & distance until damage falloff.",
       "item_type": "Blueprint",
       "loadout_slots": [],
-      "icon": "",
+      "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-barrel-ii-blueprint.webp",
       "rarity": "Legendary",
       "value": 5000,
       "workbench": null,
@@ -13816,7 +13801,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-05-19T17:43:19.827059+00:00",
-      "updated_at": "2026-05-19T17:43:19.827059+00:00",
+      "updated_at": "2026-05-24T09:07:00.230069+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -17521,20 +17506,15 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-11-14T13:27:28.602669+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-23T11:54:59.881545+00:00",
       "shield_type": "",
       "loot_area": "Exodus",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-geiger-counters-in-arc-raiders",
-          "label": "Where to Find Geiger Counters"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-geiger-counters-in-arc-raiders"
     },
     {
       "id": "gentle-duck",
@@ -23073,20 +23053,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-11-04T23:14:33.930953+00:00",
-      "updated_at": "2026-03-04T18:56:58.895533+00:00",
+      "updated_at": "2026-05-23T12:15:07.840036+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-survivor-blueprint-in-arc-raiders",
-          "label": "How to Find Survivor Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-survivor-blueprint-in-arc-raiders"
     },
     {
       "id": "lure-grenade",
@@ -23462,20 +23437,15 @@
       "flavor_text": "",
       "subcategory": "Refined Material",
       "created_at": "2025-10-18T01:19:50.203576+00:00",
-      "updated_at": "2026-03-04T19:25:49.476699+00:00",
+      "updated_at": "2026-05-23T11:58:30.709874+00:00",
       "shield_type": "",
       "loot_area": "Exodus",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-magnetic-accelerators-in-arc-raiders",
-          "label": "Where to Find Magnetic Accelerators"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-magnetic-accelerators-in-arc-raiders"
     },
     {
       "id": "magnetron",
@@ -25449,20 +25419,15 @@
       "flavor_text": null,
       "subcategory": "Topside Material",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-02-11T09:25:35.593283+00:00",
+      "updated_at": "2026-05-23T12:02:20.25778+00:00",
       "shield_type": null,
       "loot_area": "Mechanical",
       "sources": null,
       "ammo_type": null,
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-oil-in-arc-raiders",
-          "label": "Where to Find Oil Guide"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-oil-in-arc-raiders"
     },
     {
       "id": "olives",
@@ -33090,7 +33055,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-02-24T17:42:33.112843+00:00",
+      "updated_at": "2026-05-23T11:34:07.99837+00:00",
       "shield_type": null,
       "loot_area": "ARC",
       "sources": null,
@@ -33098,16 +33063,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/best-locations-to-find-sentinel-cores-in-arc-raiders",
-          "label": "Sentinel Fire Core Locations"
-        },
-        {
           "url": "https://youtu.be/-2li4FPoTcA",
           "label": "Sentinel Firing Core Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/best-locations-to-find-sentinel-cores-in-arc-raiders"
     },
     {
       "id": "shaker",
@@ -34174,7 +34135,7 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-11-14T13:22:01.22434+00:00",
-      "updated_at": "2026-03-04T17:00:24.968368+00:00",
+      "updated_at": "2026-05-23T11:56:32.632796+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
@@ -34182,16 +34143,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/how-to-get-shredder-gyros-in-arc-raiders",
-          "label": "How to get Shredder Gyros"
-        },
-        {
           "url": "https://metaforge.app/arc-raiders/deal-damage-to-shredders",
           "label": "Deal Damage to Shredders: Weekly Trial"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-get-shredder-gyros-in-arc-raiders"
     },
     {
       "id": "signal-amplifier",
@@ -35301,20 +35258,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:16:49.046704+00:00",
-      "updated_at": "2026-03-04T18:38:30.924114+00:00",
+      "updated_at": "2026-05-23T12:00:57.506183+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-snaphook-blueprint-in-arc-raiders",
-          "label": "How to Find Snaphook Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-snaphook-blueprint-in-arc-raiders"
     },
     {
       "id": "snitch-scanner",
@@ -42141,7 +42093,7 @@
       "flavor_text": null,
       "subcategory": "Trinket",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-23T11:41:53.054524+00:00",
       "shield_type": null,
       "loot_area": "Residential, Commercial",
       "sources": null,
@@ -42149,16 +42101,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/very-comfortable-pillow-and-cat-bed-in-arc-raiders",
-          "label": "Very Comfortable Pillow Guide"
-        },
-        {
           "url": "https://youtu.be/2iWoQJYp2T8",
           "label": "Very Comfortable Pillow Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/very-comfortable-pillow-and-cat-bed-in-arc-raiders"
     },
     {
       "id": "vita-shot",
@@ -43793,20 +43741,15 @@
       "flavor_text": null,
       "subcategory": "Quick Use",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-03-04T18:26:02.759581+00:00",
+      "updated_at": "2026-05-23T12:12:01.221912+00:00",
       "shield_type": null,
       "loot_area": null,
       "sources": null,
       "ammo_type": null,
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-get-wolfpacks-in-arc-raiders",
-          "label": "How to Farm Wolfpacks Guide"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-get-wolfpacks-in-arc-raiders"
     },
     {
       "id": "wolfpack-recipe",
@@ -43873,20 +43816,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T09:20:53.660648+00:00",
-      "updated_at": "2026-02-11T16:22:40.683052+00:00",
+      "updated_at": "2026-05-23T12:12:37.433605+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-wolfpack-blueprint-in-arc-raiders",
-          "label": "Wolfpack Blueprint Guide"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-wolfpack-blueprint-in-arc-raiders"
     },
     {
       "id": "yellow-light-stick",
