@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T10:10:03.963Z",
+  "updatedAt": "2026-05-25T11:59:41.566Z",
   "count": 581,
   "data": [
     {
@@ -1937,7 +1937,7 @@
       "flavor_text": null,
       "subcategory": "Nature",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T11:59:37.039919+00:00",
       "shield_type": null,
       "loot_area": "Nature",
       "sources": null,
@@ -1945,16 +1945,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/best-location-to-find-apricots-arc-raiders",
-          "label": "Apricots Guide"
-        },
-        {
           "url": "https://youtu.be/hLmbaOuzILQ",
           "label": "Apricots Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/best-location-to-find-apricots-arc-raiders"
     },
     {
       "id": "arc-alloy",
@@ -3019,7 +3015,7 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2026-03-31T09:52:58.855881+00:00",
-      "updated_at": "2026-03-31T10:07:17.014017+00:00",
+      "updated_at": "2026-05-24T21:07:23.298298+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
@@ -3027,7 +3023,7 @@
       "locations": [],
       "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-get-assessor-matrix-in-arc-raiders"
     },
     {
       "id": "assorted-seeds",
@@ -7848,7 +7844,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2026-03-31T13:15:49.950805+00:00",
-      "updated_at": "2026-04-06T09:47:44.400185+00:00",
+      "updated_at": "2026-05-24T21:05:14.834373+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -7856,16 +7852,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-canto-blueprint-arc-raiders-new-smg",
-          "label": "Where to Find Canto Blueprint"
-        },
-        {
           "url": "https://youtu.be/O-P1HAo5luE",
           "label": "Canto Blueprint Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-canto-blueprint-arc-raiders-new-smg"
     },
     {
       "id": "canto",
@@ -10051,7 +10043,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-04-28T09:11:41.976023+00:00",
-      "updated_at": "2026-05-20T10:45:50.442484+00:00",
+      "updated_at": "2026-05-25T09:44:11.57557+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -12290,7 +12282,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2026-03-31T12:57:24.319189+00:00",
-      "updated_at": "2026-04-06T09:43:59.559957+00:00",
+      "updated_at": "2026-05-24T21:02:38.780319+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -12298,16 +12290,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/how-to-get-the-dolabra-blueprint-in-arc-raiders",
-          "label": "How to Get Dolabra Blueprint"
-        },
-        {
           "url": "https://youtu.be/O-P1HAo5luE",
           "label": "Dolabra Blueprint Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-get-the-dolabra-blueprint-in-arc-raiders"
     },
     {
       "id": "doodly-duck",
@@ -19789,20 +19777,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:07:46.962815+00:00",
-      "updated_at": "2026-03-17T15:27:31.036332+00:00",
+      "updated_at": "2026-05-24T21:01:56.594464+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-il-toro-blueprint-in-arc-raiders",
-          "label": "How to Find Il Toro Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-il-toro-blueprint-in-arc-raiders"
     },
     {
       "id": "il-toro-i",
@@ -21660,7 +21643,7 @@
       "flavor_text": null,
       "subcategory": "Nature",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T11:59:07.368563+00:00",
       "shield_type": null,
       "loot_area": "Nature",
       "sources": null,
@@ -21668,16 +21651,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/best-location-to-find-lemons-arc-raiders",
-          "label": "Lemons Guide"
-        },
-        {
           "url": "https://youtu.be/OM7GcF8sLYQ",
           "label": "Lemons Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/best-location-to-find-lemons-arc-raiders"
     },
     {
       "id": "leviathans-crown-ship-model",
@@ -24513,20 +24492,15 @@
       "flavor_text": "",
       "subcategory": "Topside Material",
       "created_at": "2025-10-08T16:54:54.756761+00:00",
-      "updated_at": "2026-05-02T09:03:57.247506+00:00",
+      "updated_at": "2026-05-24T21:08:36.221228+00:00",
       "shield_type": "",
       "loot_area": "Nature",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-moss-in-arc-raiders",
-          "label": "Where to Find Moss"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-moss-in-arc-raiders"
     },
     {
       "id": "motor",
@@ -25494,7 +25468,7 @@
       "flavor_text": "",
       "subcategory": "Nature",
       "created_at": "2025-10-08T16:57:11.205607+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T11:58:03.039735+00:00",
       "shield_type": "",
       "loot_area": "Nature",
       "sources": null,
@@ -25502,16 +25476,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/best-location-to-find-olives-arc-raiders",
-          "label": "Olives Guide"
-        },
-        {
           "url": "https://youtu.be/byjiakbl1Ow",
           "label": "Olives Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/best-location-to-find-olives-arc-raiders"
     },
     {
       "id": "orange-camo-origin-outfit",
@@ -27585,7 +27555,7 @@
       "flavor_text": null,
       "subcategory": "Nature",
       "created_at": "2025-10-05T13:21:02.305+00:00",
-      "updated_at": "2026-04-15T14:50:47.786663+00:00",
+      "updated_at": "2026-05-25T11:58:38.439991+00:00",
       "shield_type": null,
       "loot_area": "Nature",
       "sources": null,
@@ -27593,16 +27563,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/best-location-to-find-prickly-pears-arc-raiders",
-          "label": "Prickly Pears Guide"
-        },
-        {
           "url": "https://youtu.be/QcCFw3VUPug",
           "label": "Prickly Pears Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/best-location-to-find-prickly-pears-arc-raiders"
     },
     {
       "id": "processor",
@@ -28507,7 +28473,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-05-19T17:09:16.154212+00:00",
-      "updated_at": "2026-05-20T10:28:59.736576+00:00",
+      "updated_at": "2026-05-24T21:50:14.706058+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -28582,7 +28548,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-05-19T17:19:02.070042+00:00",
-      "updated_at": "2026-05-21T17:08:17.555134+00:00",
+      "updated_at": "2026-05-24T22:03:03.186862+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -28657,7 +28623,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-05-19T17:25:04.840041+00:00",
-      "updated_at": "2026-05-19T17:25:04.840041+00:00",
+      "updated_at": "2026-05-24T21:50:44.350759+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -28732,7 +28698,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-05-19T17:27:02.273299+00:00",
-      "updated_at": "2026-05-19T17:27:02.273299+00:00",
+      "updated_at": "2026-05-24T21:51:39.782937+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -28807,7 +28773,7 @@
       "flavor_text": "",
       "subcategory": "",
       "created_at": "2026-05-19T17:32:29.1742+00:00",
-      "updated_at": "2026-05-19T17:32:29.1742+00:00",
+      "updated_at": "2026-05-24T21:52:11.362064+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -34947,20 +34913,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-11-07T12:28:16.063805+00:00",
-      "updated_at": "2026-03-17T16:15:03.484221+00:00",
+      "updated_at": "2026-05-24T21:06:54.300044+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-every-blueprint-in-arc-raiders#smoke-grenade-blueprint",
-          "label": "How to Find Every Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-the-smoke-grenade-blueprint-in-arc-raiders"
     },
     {
       "id": "laser-trap-smoke-recipe",
@@ -37623,7 +37584,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2026-03-31T16:28:27.708121+00:00",
-      "updated_at": "2026-04-06T09:45:52.854826+00:00",
+      "updated_at": "2026-05-24T21:06:14.829654+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -37631,16 +37592,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-the-surge-coil-blueprint-in-arc-raiders",
-          "label": "How to Find Surge Coil Blueprint"
-        },
-        {
           "url": "https://youtu.be/O-P1HAo5luE",
           "label": "Surge Coil Blueprint Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-the-surge-coil-blueprint-in-arc-raiders"
     },
     {
       "id": "surge-shield-recharger",
@@ -39248,20 +39205,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T09:17:30.395349+00:00",
-      "updated_at": "2026-03-14T21:28:29.516599+00:00",
+      "updated_at": "2026-05-24T20:59:25.881577+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-tempest-blueprint-in-arc-raiders",
-          "label": "How to Find Tempest Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-tempest-blueprint-in-arc-raiders"
     },
     {
       "id": "tempest-i",
@@ -42411,20 +42363,15 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T09:20:30.37099+00:00",
-      "updated_at": "2026-03-15T08:56:14.305625+00:00",
+      "updated_at": "2026-05-24T21:00:53.14756+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/how-to-find-vita-spray-blueprint-in-arc-raiders",
-          "label": "How to Find Vita Spray Blueprint"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-vita-spray-blueprint-in-arc-raiders"
     },
     {
       "id": "volcanic-rock",
