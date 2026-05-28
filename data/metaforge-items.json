@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T11:59:41.566Z",
+  "updatedAt": "2026-05-28T11:49:56.766Z",
   "count": 581,
   "data": [
     {
@@ -9732,7 +9732,7 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-08T15:39:22.925418+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:15:45.475517+00:00",
       "shield_type": "",
       "loot_area": "Industrial",
       "sources": null,
@@ -9740,7 +9740,7 @@
       "locations": [],
       "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-cooling-coils-arc-raiders"
     },
     {
       "id": "cooling-fan",
@@ -9807,20 +9807,15 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-08T15:40:30.51648+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:02:53.25615+00:00",
       "shield_type": "",
       "loot_area": "Technological",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-cooling-fans-arc-raiders",
-          "label": "Where to Find Cooling Fans Guide"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-cooling-fans-arc-raiders"
     },
     {
       "id": "cracked-bioscanner",
@@ -9887,7 +9882,7 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-08T15:42:11.127119+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:12:49.417114+00:00",
       "shield_type": "",
       "loot_area": "Medical",
       "sources": null,
@@ -9895,7 +9890,7 @@
       "locations": [],
       "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-cracked-bioscanners-arc-raiders"
     },
     {
       "id": "crash-mat",
@@ -10576,7 +10571,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:11:08.861088+00:00",
       "shield_type": null,
       "loot_area": "Technological",
       "sources": null,
@@ -10584,16 +10579,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/database/item/damaged-heat-sink",
-          "label": "Where to Find Damaged Heat Sinks in ARC Raiders"
-        },
-        {
           "url": "https://youtu.be/zf_pfrTxr_Y",
           "label": "Damaged Heat Sink Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-damaged-heat-sinks-arc-raiders"
     },
     {
       "id": "danaged-hornet-driver",
@@ -13356,20 +13347,15 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-08T16:41:52.81437+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:16:08.475514+00:00",
       "shield_type": "",
       "loot_area": "Medical",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-expired-respirators-arc-raiders",
-          "label": "Where to Find Expired Respirators"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-expired-respirators-arc-raiders"
     },
     {
       "id": "explosive-compound",
@@ -16872,7 +16858,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:11:32.008256+00:00",
       "shield_type": null,
       "loot_area": "Technological",
       "sources": null,
@@ -16880,16 +16866,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/database/item/fried-motherboard",
-          "label": "Where to Get Fried Motherboards in ARC Raiders"
-        },
-        {
           "url": "https://youtu.be/lKSIfu2ZRiE",
           "label": "Fried Motherboards Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-get-fried-motherboards-arc-raiders"
     },
     {
       "id": "fruit-mix",
@@ -19622,20 +19604,15 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-08T16:48:17.017571+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:06:17.823941+00:00",
       "shield_type": "",
       "loot_area": "Residential",
       "sources": null,
       "ammo_type": "",
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-humidifier-arc-raiders",
-          "label": "Where to Find Humidifiers in ARC Raiders"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-humidifier-arc-raiders"
     },
     {
       "id": "ice-cream-scooper",
@@ -21281,7 +21258,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:01:08.10295+00:00",
       "shield_type": null,
       "loot_area": "Medical",
       "sources": null,
@@ -21289,16 +21266,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-laboratory-reagents-arc-raiders",
-          "label": "Laboratory Reagents Guide"
-        },
-        {
           "url": "https://youtu.be/Dm7tgIFVYwc",
           "label": "Lboratory Reagents Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-laboratory-reagents-arc-raiders"
     },
     {
       "id": "lances-mixtape-5th-edition",
@@ -21954,7 +21927,7 @@
       "flavor_text": null,
       "subcategory": "Trinket",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:05:37.507804+00:00",
       "shield_type": null,
       "loot_area": "Electrical",
       "sources": null,
@@ -21962,16 +21935,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-lightbulbs-arc-raiders",
-          "label": "Where to Find Light bulbs Guide"
-        },
-        {
           "url": "https://youtu.be/Vl4l0PLjlPg",
           "label": "Light Bulbs Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-lightbulbs-arc-raiders"
     },
     {
       "id": "light-gun-parts",
@@ -24570,7 +24539,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:12:02.608423+00:00",
       "shield_type": null,
       "loot_area": "Mechanical",
       "sources": null,
@@ -24578,16 +24547,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-get-motors-arc-raiders",
-          "label": "Where to Get Motors in ARC Raiders"
-        },
-        {
           "url": "https://youtu.be/fvtAYO5_Xhs",
           "label": "Motors Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-get-motors-arc-raiders"
     },
     {
       "id": "mushroom",
@@ -24654,7 +24619,7 @@
       "flavor_text": "",
       "subcategory": "Nature",
       "created_at": "2025-10-08T16:55:42.115912+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:07:03.689012+00:00",
       "shield_type": "",
       "loot_area": "Nature",
       "sources": null,
@@ -24662,16 +24627,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-mushrooms-arc-raiders",
-          "label": "Where to get Mushrooms Guide"
-        },
-        {
           "url": "https://youtu.be/G9TFNZ4TeL0",
           "label": "Mushrooms Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-mushrooms-arc-raiders"
     },
     {
       "id": "music-album",
@@ -31095,17 +31056,13 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-03-04T17:10:24.495962+00:00",
+      "updated_at": "2026-05-25T12:00:32.400439+00:00",
       "shield_type": null,
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": null,
       "locations": [],
       "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/easiest-way-to-get-rocketeer-driver-arc-raiders",
-          "label": "Rocketeer Driver Guide"
-        },
         {
           "url": "https://youtu.be/bu8ijiQZ4b0",
           "label": "Rocketeer Driver Video"
@@ -31124,7 +31081,7 @@
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/easiest-way-to-get-rocketeer-driver-arc-raiders"
     },
     {
       "id": "rocket-thruster",
@@ -32319,7 +32276,7 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-08T15:21:31.028907+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:16:26.919489+00:00",
       "shield_type": "",
       "loot_area": "Industrial, Mechanical",
       "sources": null,
@@ -32327,7 +32284,7 @@
       "locations": [],
       "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-rusted-bolts-arc-raiders"
     },
     {
       "id": "rusted-gear",
@@ -32480,20 +32437,15 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:01:38.513752+00:00",
       "shield_type": null,
       "loot_area": "Medical",
       "sources": null,
       "ammo_type": null,
       "locations": [],
-      "guide_links": [
-        {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-rusted-shut-medical-kit-in-arc-raiders",
-          "label": "Rusted Shut Medical Kit Guide"
-        }
-      ],
+      "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-rusted-shut-medical-kit-in-arc-raiders"
     },
     {
       "id": "rusted-tools",
@@ -36014,7 +35966,7 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-17T23:41:58.926717+00:00",
-      "updated_at": "2026-02-24T17:43:22.212104+00:00",
+      "updated_at": "2026-05-25T12:17:12.65968+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
@@ -36022,7 +35974,7 @@
       "locations": [],
       "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-spotter-relays-arc-raiders"
     },
     {
       "id": "spring-cushion",
@@ -37739,7 +37691,7 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-19T20:57:29.223473+00:00",
-      "updated_at": "2026-02-24T17:42:57.920255+00:00",
+      "updated_at": "2026-05-25T12:10:39.635867+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
@@ -37747,16 +37699,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-find-surveyor-vaults-arc-raiders",
-          "label": "Where to Find Surveyor Vaults in ARC Raiders"
-        },
-        {
           "url": "https://youtu.be/DwEUYxnbFlQ",
           "label": "Surveyor Vaults Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-surveyor-vaults-arc-raiders"
     },
     {
       "id": "synthesized-fuel",
@@ -39662,7 +39610,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:16:49.203273+00:00",
       "shield_type": null,
       "loot_area": "ARC",
       "sources": null,
@@ -39670,7 +39618,7 @@
       "locations": [],
       "guide_links": [],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-find-tick-pods-arc-raiders"
     },
     {
       "id": "toaster",
@@ -43137,7 +43085,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-25T12:12:25.3242+00:00",
       "shield_type": null,
       "loot_area": "Industrial",
       "sources": null,
@@ -43145,16 +43093,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/where-to-get-water-filters-in-arc-raiders-fast-and-easy",
-          "label": "Water Filters Guide"
-        },
-        {
           "url": "https://youtu.be/d8UipOQwH2I",
           "label": "Water Filters Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/where-to-get-water-filters-in-arc-raiders-fast-and-easy"
     },
     {
       "id": "water-pump",
