@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T11:49:56.766Z",
+  "updatedAt": "2026-05-29T11:40:25.873Z",
   "count": 581,
   "data": [
     {
@@ -8227,7 +8227,7 @@
       "flavor_text": null,
       "subcategory": "Trinket",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-01-31T06:29:13.011643+00:00",
+      "updated_at": "2026-05-28T14:48:43.673103+00:00",
       "shield_type": null,
       "loot_area": "Commercial, Residential",
       "sources": null,
@@ -8235,16 +8235,12 @@
       "locations": [],
       "guide_links": [
         {
-          "url": "https://metaforge.app/arc-raiders/very-comfortable-pillow-and-cat-bed-in-arc-raiders",
-          "label": "Cat Bed Guide"
-        },
-        {
           "url": "https://youtu.be/2iWoQJYp2T8",
           "label": "Cat Bed Video"
         }
       ],
       "article": null,
-      "guide_url": null
+      "guide_url": "/arc-raiders/how-to-find-cat-beds-in-arc-raiders"
     },
     {
       "id": "cheer-emote",
