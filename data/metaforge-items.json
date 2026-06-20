@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T12:17:10.340Z",
+  "updatedAt": "2026-06-20T10:40:40.474Z",
   "count": 590,
   "data": [
     {
@@ -532,14 +532,14 @@
       "flavor_text": null,
       "subcategory": "Quick Use",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:00:33.559289+00:00",
       "shield_type": null,
       "loot_area": null,
       "sources": null,
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "article": "<p>Agave Juice is a consumable item that Raiders can use to temporarily increase their stamina regeneration, while taking a small amount of health damage at the start. This helps Raiders quickly regain stamina during raids.</p><p>It is crafted at a crafting station using generic ingredients. These materials can be gathered in various locations, while others are found by looting containers or salvaging salvage.</p>",
+      "article": "<p>Agave Juice is a consumable item that Raiders can use to temporarily increase their stamina regeneration, while taking a small amount of health damage at the start. This helps Raiders quickly regain stamina during raids and it can only be crafted in-raid.</p>",
       "guide_url": null
     },
     {
@@ -835,7 +835,7 @@
       "flavor_text": "Can only be used during Locked Gate",
       "subcategory": "Key",
       "created_at": "2026-01-13T22:52:51.535297+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T19:55:52.453144+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -847,7 +847,7 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "article": "<p>The <strong>Ancient Fort Security Code</strong> is a temporary code used to unlock a main gate within the Ancient Fort area during the 'Locked Gate' map condition. You need four of these codes to open the gate. Find this item in lootable containers located in the Ancient Fort area of the <a href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map. To use a code, go to the Gate Control Room on the Blue Gate map, enter the building, and submit it at one of the four terminals. Submitting a code removes it, but you can collect multiple codes across raids and extract with them.</p>",
+      "article": "<p>The <strong>Ancient Fort Security Code</strong> is a temporary code used to unlock a main gate within the Ancient Fort area during the 'Locked Gate' map condition. You need four of these codes to open the gate. Find this item in lootable containers located in the Ancient Fort area of the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map. To use a code, go to the Gate Control Room on the Blue Gate map, enter the building, and submit it at one of the four terminals. Submitting a code consumes it and activates the terminal which helps to open the Locked Gate.</p>",
       "guide_url": null
     },
     {
@@ -1336,14 +1336,14 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T07:59:15.006805+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:02:12.210598+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The Anvil Blueprint is a blueprint that allows you to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/anvil-i\">Anvil I</a> hand cannon. Once you have it, this blueprint also allows you to upgrade it into its improved versions: <a href=\"https://metaforge.app/arc-raiders/database/item/anvil-ii\">Anvil II</a>, <a href=\"https://metaforge.app/arc-raiders/database/item/anvil-iii\">Anvil III</a>, and <a href=\"https://metaforge.app/arc-raiders/database/item/anvil-iv\">Anvil IV</a>. Crafting requires access to a Gunsmith station, often found in your <a href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a>.</p>\n\n<p>You can find the Anvil Blueprint by opening various containers or by purchasing it from Tian Wen for coins.</p>",
+      "article": "<p>The Anvil Blueprint is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-i\">Anvil I</a> hand cannon. Once you have it, this blueprint also allows you to upgrade it into its improved versions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-ii\">Anvil II</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-iii\">Anvil III</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-iv\">Anvil IV</a>. Crafting requires access to a Gunsmith station found in your <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a>.</p><p>You can find the Anvil Blueprint by opening various containers or by purchasing it from Tian Wen for coins.</p>",
       "guide_url": "/arc-raiders/how-to-find-anvil-blueprint-in-arc-raiders"
     },
     {
@@ -1854,7 +1854,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-11-13T10:37:57.481584+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:02:58.675733+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -1866,7 +1866,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>This blueprint allows Raiders to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/aphelion-rifle\">Aphelion Rifle</a> at a Workbench, provided they have achieved the required Gunsmith skill level. It is known for firing high-velocity energy rounds in two-round bursts. You can find it in the <a href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> map, or it may be awarded upon completing the <a href=\"https://metaforge.app/arc-raiders/database/quest/furtive-meetings\">Furtive Meetings</a> quest.</p>",
+      "article": "<p>This blueprint allows Raiders to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/aphelion-rifle\">Aphelion Rifle</a> at a Workbench, provided they have achieved the required Gunsmith bench level. It is known for firing high-velocity energy rounds in two-round bursts. You can find it in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> map, or it may be awarded upon completing the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/quest/furtive-meetings\">Furtive Meetings</a> quest.</p>",
       "guide_url": null
     },
     {
@@ -2329,14 +2329,14 @@
       "flavor_text": null,
       "subcategory": "Topside Material",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:04:56.219265+00:00",
       "shield_type": null,
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>ARC Motion Core</strong> is a rare item used to craft various components and upgrade your facilities. It is essential for upgrading your Refiner.</p>\n\n<p>You can get <strong>ARC Motion Cores</strong> through these methods:</p>\n<ul>\n<li>By defeating various <a href=\"https://metaforge.app/arc-raiders/database/arc/bastion\">Bastion</a>, Courier, <a href=\"https://metaforge.app/arc-raiders/database/arc/bison\">Leaper</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/matriarch\">Matriarch</a>, Probe, <a href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/rocketeer\">Rocketeer</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/sentinel\">Sentinel</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/rollbot\">Surveyor</a>, and <a href=\"https://metaforge.app/arc-raiders/database/arc/turbine\">Turbine</a>.</li>\n<li>By crafting it at the Refiner.</li>\n<li>By salvaging salvage.</li>\n</ul>",
+      "article": "<p>The <strong>ARC Motion Core</strong> is a rare item used to craft various components and upgrade your facilities. It is essential for upgrading your Refiner.</p><p>You can get <strong>ARC Motion Cores</strong> through these methods:</p><ul><li><p>By defeating various <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bastion\">Bastion</a>, Courier, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bison\">Leaper</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/matriarch\">Matriarch</a>, Probe, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/rocketeer\">Rocketeer</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/sentinel\">Sentinel</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/rollbot\">Surveyor</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/turbine\">Turbine</a>.</p></li><li><p>By crafting it at the Refiner.</p></li></ul><p></p>",
       "guide_url": null
     },
     {
@@ -3015,14 +3015,14 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2026-03-31T09:52:58.855881+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:07:59.284786+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>Assessor Matrix is a specialized part obtained by defeating and then breaching the <a href=\"https://metaforge.app/arc-raiders/database/arc/arc-assessor\">ARC Assessor</a>. This unique ARC, a recent arrival, descends from orbit to collect air and soil samples. The ARC Assessor typically appears during special in-game events and is sometimes called in by a larger ARC known as the <a href=\"https://metaforge.app/arc-raiders/database/arc/rollbot\">Surveyor</a>. Raiders need it for various projects, helping them progress with crafting and upgrades.</p>",
+      "article": "<p>Assessor Matrix is a specialized part obtained by breaching the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/arc-assessor\">ARC Assessor</a>. This unique ARC, a recent arrival, descends from orbit and, guided by ARC Surveyors, lands in pre-set places on the map spawning a patrol of flying ARC enemies around it. The ARC Assessor appears during the Close Scrutiny event.</p>",
       "guide_url": "/arc-raiders/how-to-get-assessor-matrix-in-arc-raiders"
     },
     {
@@ -7844,7 +7844,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2026-03-31T13:15:49.950805+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:27:00.660416+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -7856,7 +7856,7 @@
           "label": "Canto Blueprint Video"
         }
       ],
-      "article": "<p>The <strong>Canto Blueprint</strong> is a blueprint that teaches you how to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/canto\">Canto</a>, a fully-automatic submachine gun, at a Gunsmith bench level 1. This blueprint is found by opening First Wave Caches.</p>",
+      "article": "<p>The <strong>Canto Blueprint</strong> is a blueprint that teaches you how to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/canto\">Canto</a>, a fully-automatic submachine gun, at a Gunsmith. This blueprint is found by opening First Wave Caches.</p>",
       "guide_url": "/arc-raiders/where-to-find-canto-blueprint-arc-raiders-new-smg"
     },
     {
@@ -23219,14 +23219,14 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2026-01-27T13:46:49.564596+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:35:18.252841+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Looting MK. 3 (Safekeeper) Blueprint</strong> is a blueprint that allows you to create an augment at Gear Bench. This augment provides a secure pocket for storing items found during raids and is designed to increase your overall looting potential. You can find this blueprint in the Reinforced Reception area.</p>",
+      "article": "<p>The <strong>Looting MK. 3 (Safekeeper) Blueprint</strong> is a blueprint that allows you to create an augment at Gear Bench. This augment provides a secure pocket for storing items found during raids and specifically allows you to Safe-pocket a weapon - something other augments do not allow.</p>",
       "guide_url": null
     },
     {
@@ -23297,14 +23297,14 @@
       "flavor_text": "While downed and stationary, health regenerates up to 75% of max downed health.",
       "subcategory": "Augment",
       "created_at": "2025-10-31T23:55:27.087126+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:33:13.533957+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Looting MK. 3 (Survivor)</strong> is an Augment that increases your carrying capacity and backpack space. It also has a special ability: if you get downed and stay still, your health will regenerate up to 75% of your maximum downed health.</p>\n\n<p>To get this Augment, find its blueprint through scavenging or by opening black crates, then craft it at a Gear Bench.</p>",
+      "article": "<p>The <strong>Looting MK. 3 (Survivor)</strong> is an Augment that increases your carrying capacity and backpack space. It also has a special ability: if you get downed and stay still, your health will regenerate up to 75% of your maximum downed health.</p>",
       "guide_url": null
     },
     {
@@ -23981,14 +23981,14 @@
       "flavor_text": "Used to Craft: Aphelion",
       "subcategory": "Recyclable",
       "created_at": "2025-11-13T22:05:15.800479+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:32:02.299779+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The Matriarch Reactor is a component salvaged from defeated ARCs. It is used in crafting advanced weapons and is also required for a Trophy Display project. Raiders obtain this item by scavenging destroyed <a href=\"https://metaforge.app/arc-raiders/database/arc/matriarch\">Matriarchs</a>.</p>",
+      "article": "<p>The Matriarch Reactor is a component salvaged from defeated <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/matriarch\">Matriarchs</a>. It is used in crafting advanced weapons and can also be traded for account upgrades with Ermal - the Nomadic Envoys Trader.</p>",
       "guide_url": null
     },
     {
@@ -26867,7 +26867,7 @@
       "flavor_text": "Can only be used during Locked Gate",
       "subcategory": "Key",
       "created_at": "2026-01-09T23:50:56.986544+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T19:56:38.129148+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -26879,7 +26879,7 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "article": "<p>The <strong>Pilgrim's Peak Security Code</strong> is a temporary code used to unlock a main gate on the <a href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map. It is essential for opening a specific gate during a 'Locked Gate' map condition, as you need four different codes to fully unlock it.</p>\n\n<p>You can find this code inside any lootable container within the Pilgrim's Peak location on the Blue Gate map. At least one code typically appears during a round, and you might find more. To use the code, proceed to the Gate Control Room on the Blue Gate map, enter the building, and submit it at one of the four terminals. Submitting the code removes it from your inventory. You have the option to extract with the code to collect multiple across different raids, or simply drop it during a round if it's no longer needed.</p>",
+      "article": "<p>The <strong>Pilgrim's Peak Security Code</strong> is a temporary code used to unlock a main gate on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map. It is essential for opening a specific gate during a 'Locked Gate' map condition, as you need four different codes to fully unlock it.</p><p>You can find this code inside any lootable container within the Pilgrim's Peak location on the Blue Gate map. At least one code typically appears during a round, and you might find more. To use the code, proceed to the Gate Control Room on the Blue Gate map, enter the building, and submit it at one of the four terminals. Submitting a code consumes it and activates the terminal which helps to open the Locked Gate.</p>",
       "guide_url": null
     },
     {
@@ -28272,14 +28272,14 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-11-02T12:19:18.20894+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:17:40.021966+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <a href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a> Reactor is a crafting component primarily used to create weapons and for a project. You can use it to craft items at a Gunsmith. This item is also needed for a Trophy Display project. Raiders obtain the <a href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a> Reactor by scavenging destroyed <a href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queens</a> or by collecting their leg armor segments that break off during battle. It can also be recycled into crafting materials.</p>",
+      "article": "<p>The <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a> Reactor is a crafting component primarily used to create weapons and currently commonly used to trade for various account upgrades with Ermal - the Nomadic Envoys Trader. You can use it to craft items at a Gunsmith. Raiders obtain the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a> Reactor by scavenging destroyed <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queens</a> or by looting their leg armor segments that break off during battle.</p>",
       "guide_url": null
     },
     {
@@ -28650,7 +28650,7 @@
       "flavor_text": "Can only be used during Locked Gate",
       "subcategory": "Key",
       "created_at": "2026-01-10T00:08:06.394168+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T19:57:35.03639+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -28662,7 +28662,7 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "article": "<p>The <strong>Raider's Refuge Security Code</strong> is a temporary code used to unlock the main gate during the \"Locked Gate\" map condition. You need four of these codes to open the gate. To use a code, go to the Gate Control Room location on the <a href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map, enter the building, and submit it at one of the four terminals inside. Submitting the code removes it from your inventory. You can find the <strong>Raider's Refuge Security Code</strong> in any lootable container within the Raider's Refuge location on the Blue Gate map. At least one code will appear during a round, and sometimes more. While you can extract with codes and collect them across different raids, the only way to remove them from your stash is by submitting them or dropping them on the floor during a round.</p>",
+      "article": "<p>The <strong>Raider's Refuge Security Code</strong> is a temporary code used to unlock the main gate during the \"Locked Gate\" map condition. You need four of these codes to open the gate. To use a code, go to the Gate Control Room location on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map, enter the building, and submit it at one of the four terminals inside. Submitting a code consumes it and activates the terminal which helps to open the Locked Gate.</p>",
       "guide_url": null
     },
     {
@@ -29872,7 +29872,7 @@
       "flavor_text": "Can only be used during Locked Gate",
       "subcategory": "Key",
       "created_at": "2026-01-13T22:43:57.657593+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T19:58:31.527102+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -29884,7 +29884,7 @@
           "label": "Locked Gate Event Guide"
         }
       ],
-      "article": "<p>The <strong>Reinforced Reception Security Code</strong> is a temporary security code used to unlock a main gate. It is one of four codes required to open the gate during the \"Locked Gate\" <a href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map condition.</p>\n\n<p>You can find this code in lootable containers, such as bins, located within the Reinforced Reception area on the Blue Gate map. At least one code will appear per round during this condition, and sometimes more.</p>\n\n<p>To use the code, head to the Gate Control Room on the Blue Gate map. Once inside, interact with one of the four terminals to submit the code, which then removes it from your inventory. You can extract with this item and collect multiple codes across different raids. Note that you cannot directly delete this code from your stash; you must bring it into a raid and either drop it or submit it to remove it.</p>",
+      "article": "<p>The <strong>Reinforced Reception Security Code</strong> is a temporary security code used to unlock a main gate. It is one of four codes required to open the gate during the \"Locked Gate\" <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map condition.</p><p>You can find this code in lootable containers, such as bins, located within the Reinforced Reception area on the Blue Gate map. At least one code will appear per round during this condition, and sometimes more.</p><p>To use the code, head to the Gate Control Room on the Blue Gate map. Once inside, interact with one of the four terminals. Submitting a code consumes it and activates the terminal which helps to open the Locked Gate.</p>",
       "guide_url": null
     },
     {
@@ -35622,14 +35622,14 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:16:49.046704+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:21:07.237486+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Snap Hook Blueprint</strong> is a blueprint that teaches you how to build the <a href=\"https://metaforge.app/arc-raiders/database/item/snap-hook\">Snap Hook</a>, which allows you to move quickly across distances or reach higher spots. Once learned, you can craft it at a Utility Station.</p>\n<p>You can get this blueprint as a reward from specific sources:</p>\n<ul>\n<li>By completing the <a href=\"https://metaforge.app/arc-raiders/database/quest/lost-in-transmission\">Lost In Transmission</a> quest.</li>\n<li>From the Trophy Display project, upon reaching Stage 5.</li>\n<li>As a reward in Raider Deck AR/RD 001: Ryder & Voyager, found on Page 3, specifically in the \"NINJA PACK\" section.</li>\n<li>From Raider Deck AR/RD 002: Goalie, located on Page 4.</li>\n</ul>",
+      "article": "<p>The <strong>Snap Hook Blueprint</strong> is a blueprint that teaches you how to build the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/snap-hook\">Snap Hook</a>, which allows you to move quickly across distances or reach higher spots. Once learned, you can craft it at a Utility Station.</p><p>You can find this blueprint during Electromagnetic Storm map condition on various maps, most commonly in Residential loot areas.</p><p></p>",
       "guide_url": "/arc-raiders/how-to-find-snaphook-blueprint-in-arc-raiders"
     },
     {
@@ -44383,14 +44383,14 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T09:20:53.660648+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-19T20:30:13.268879+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Wolfpack Blueprint</strong> is a blueprint used at an Explosives Station to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/wolfpack\">Wolfpack</a> grenade.</p>\n<p>Once crafted, this grenade scatters into 12 individual homing missiles that quickly seek out and explode on impact with nearby ARCs. It is particularly effective for dealing significant damage to larger ARCs like the <a href=\"https://metaforge.app/arc-raiders/database/arc/rocketeer\">Rocketeer</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/bastion\">Bastion</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/bombardier\">Bombardier</a>, and <a href=\"https://metaforge.app/arc-raiders/database/arc/bison\">Leaper</a>.</p>",
+      "article": "<p>The <strong>Wolfpack Blueprint</strong> is a blueprint used at an Explosives Station to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/wolfpack\">Wolfpack</a> grenade.</p><p>Once deployed, this grenade scatters into 12 individual homing missiles that quickly seek out and explode on impact with nearby ARCs. It is particularly effective for dealing significant damage to larger ARCs like the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/rocketeer\">Rocketeer</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bastion\">Bastion</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bombardier\">Bombardier</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bison\">Leaper</a>.</p>",
       "guide_url": "/arc-raiders/how-to-find-wolfpack-blueprint-in-arc-raiders"
     },
     {
