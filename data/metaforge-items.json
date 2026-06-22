@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T10:40:40.474Z",
+  "updatedAt": "2026-06-22T13:43:15.173Z",
   "count": 590,
   "data": [
     {
@@ -1336,14 +1336,14 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T07:59:15.006805+00:00",
-      "updated_at": "2026-06-19T20:02:12.210598+00:00",
+      "updated_at": "2026-06-21T15:57:43.634367+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The Anvil Blueprint is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-i\">Anvil I</a> hand cannon. Once you have it, this blueprint also allows you to upgrade it into its improved versions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-ii\">Anvil II</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-iii\">Anvil III</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-iv\">Anvil IV</a>. Crafting requires access to a Gunsmith station found in your <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a>.</p><p>You can find the Anvil Blueprint by opening various containers or by purchasing it from Tian Wen for coins.</p>",
+      "article": "<p>The Anvil Blueprint is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-i\">Anvil I</a> hand cannon. Once you have it, this blueprint also allows you to upgrade it into its improved versions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-ii\">Anvil II</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-iii\">Anvil III</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/anvil-iv\">Anvil IV</a>. Crafting requires access to a Gunsmith station found in your <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a>.</p><p>You can find the Anvil Blueprint by opening Raider Caches and other various containers or you can purchase the weapon itself from Tian Wen for coins.</p>",
       "guide_url": "/arc-raiders/how-to-find-anvil-blueprint-in-arc-raiders"
     },
     {
@@ -1854,7 +1854,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-11-13T10:37:57.481584+00:00",
-      "updated_at": "2026-06-19T20:02:58.675733+00:00",
+      "updated_at": "2026-06-21T16:25:32.364075+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -1866,7 +1866,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>This blueprint allows Raiders to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/aphelion-rifle\">Aphelion Rifle</a> at a Workbench, provided they have achieved the required Gunsmith bench level. It is known for firing high-velocity energy rounds in two-round bursts. You can find it in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> map, or it may be awarded upon completing the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/quest/furtive-meetings\">Furtive Meetings</a> quest.</p>",
+      "article": "<p>This blueprint allows Raiders to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/aphelion-rifle\">Aphelion Rifle</a> at a Workbench, provided they have achieved the required Gunsmith bench level. It is known for firing high-velocity energy rounds in two-round bursts. You can find it pretty commonly in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> map.</p>",
       "guide_url": null
     },
     {
@@ -2632,14 +2632,14 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-08T15:17:16.489343+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:22:52.162035+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p><strong>ARC Thermo Lining</strong> is a material you get from looting arcs. Its main use is to be recycled, which provides valuable crafting resources for your projects. You can obtain it by defeating many different kinds of ARCs, including smaller ones like the <a href=\"https://metaforge.app/arc-raiders/database/arc/wasp\">Wasp</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/tick\">Tick</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/pop\">Pop</a>, or <a href=\"https://metaforge.app/arc-raiders/database/arc/fireball\">Fireball</a>, and larger ones such as the <a href=\"https://metaforge.app/arc-raiders/database/arc/sentinel\">Sentinel</a>, <a href=\"https://metaforge.app/arc-raiders/database/arc/matriarch\">Matriarch</a>, or Baron Husk. These are commonly encountered during your raids.</p>",
+      "article": "<p><strong>ARC Thermo Lining</strong> is a material you get from looting arcs. Its main use is to be recycled, which provides valuable crafting resources for your projects. You can obtain it by defeating many different kinds of ARCs, including smaller ones like the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/wasp\">Wasp</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/tick\">Tick</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/pop\">Pop</a>, or <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/fireball\">Fireball</a>, and larger ones such as the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/sentinel\">Sentinel</a> and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/matriarch\">Matriarch</a>. But the most reliable way to get this material is to loot Baron Husks and Landing ARC Probes.</p>",
       "guide_url": null
     },
     {
@@ -3547,7 +3547,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:50:26.7282+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:13:04.206044+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -3559,7 +3559,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>The <strong>Barricade Kit Blueprint</strong> is a blueprint that teaches you how to craft a Barricade Kit at a utility station. It creates a wall-like structure that offers deployable cover, helping to block incoming damage during engagements. These kits can also be dismantled and redeployed. This blueprint is primarily obtained by looting Mk.3 Safekeepers found during your raids.</p>",
+      "article": "<p>The <strong>Barricade Kit Blueprint</strong> is a blueprint that teaches you how to craft a Barricade Kit at a utility station. It creates a wall-like structure that offers deployable cover, helping to block incoming damage during engagements. These kits can also be dismantled and redeployed. This blueprint is primarily obtained by looting <strong>Electrical Style</strong> containers across all maps.</p>",
       "guide_url": null
     },
     {
@@ -3630,14 +3630,14 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.51415+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:12:16.844734+00:00",
       "shield_type": null,
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Bastion Cell</strong> is a component. It is primarily used to upgrade the Gear Bench and for the <a href=\"https://metaforge.app/arc-raiders/database/quest/settled-in-full\">Settled in Full</a> quest. Raiders obtain this item by salvaging it from <a href=\"https://metaforge.app/arc-raiders/database/arc/bastion\">Bastions</a>. Like other components, it can be recycled for resources.</p>",
+      "article": "<p>The <strong>Bastion Cell</strong> is a rare ARC component dropped by a defeated Bastion. It is primarily used to upgrade the Gear Bench, as a turn-in item for the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/quest/settled-in-full\">Settled in Full</a> quest and more recently as one of the barter items with Nomadic Traders for account upgrades. Raiders obtain this item by salvaging it from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bastion\">Bastions</a>. Like other components, it can be recycled for valuable resources.</p>",
       "guide_url": null
     },
     {
@@ -3780,7 +3780,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-19T20:41:57.104927+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:17:26.717143+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -3792,7 +3792,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>The <strong>Bettina Blueprint</strong> is a blueprint that allows you to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/bettina-i\">Bettina I</a> assault rifle at a crafting station with Gunsmith capabilities. This fully-automatic rifle is known for its relatively slow fire rate and high damage output. It also provides the ability to upgrade it into its improved versions: <a href=\"https://metaforge.app/arc-raiders/database/item/bettina-ii\">Bettina II</a>, <a href=\"https://metaforge.app/arc-raiders/database/item/bettina-iii\">Bettina III</a>, and <a href=\"https://metaforge.app/arc-raiders/database/item/bettina-iv\">Bettina IV</a>.</p>",
+      "article": "<p>The <strong>Bettina Blueprint</strong> is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/bettina-i\">Bettina I</a> assault rifle at a Gunsmith bench. This fully-automatic rifle is known for its relatively slow fire rate and high damage output. It also provides the ability to upgrade it into its improved versions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/bettina-ii\">Bettina II</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/bettina-iii\">Bettina III</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/bettina-iv\">Bettina IV</a>.</p>",
       "guide_url": null
     },
     {
@@ -5520,7 +5520,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:51:19.82647+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T15:51:05.459555+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -5532,7 +5532,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>The <strong>Bobcat Blueprint</strong> is a blueprint that allows you to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/bobcat-i\">Bobcat I</a> submachine gun at a <strong>Gunsmith Bench</strong> in your <a href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a>, assuming you meet the crafting requirements. It is generally obtained by participating in specific in-game events or by interacting with certain points across the <a href=\"https://metaforge.app/arc-raiders/map\">maps</a>, as indicated by mentions of a \"locked gate event\" associated with its discovery.</p>",
+      "article": "<p>The <strong>Bobcat Blueprint</strong> is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/bobcat-i\">Bobcat I</a> submachine gun at a <strong>Gunsmith Bench</strong> in your <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a>, assuming you meet the crafting requirements. It is generally obtained by participating in specific in-game events such as Locked Gate or lately by searching First Wave Caches during the Hurrican Map Condition.</p>",
       "guide_url": null
     },
     {
@@ -5904,14 +5904,14 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-10-21T22:49:38.070071+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:19:54.130654+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Bombardier Cell</strong> is a component salvaged from <a href=\"https://metaforge.app/arc-raiders/database/arc/bombardier\">Bombardiers</a>. It helps Raiders progress by serving as a material for various upgrades and projects. You need it to upgrade the Refiner, which is used for crafting. These cells are also a requirement for the Expedition 3 project and the Trophy Display project, which contribute to your overall progression or Hideout improvements. <strong>Bombardier Cells</strong> are obtained by defeating <a href=\"https://metaforge.app/arc-raiders/database/arc/bombardier\">Bombardiers</a>, a type of ARC commonly found in the <a href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> map. This item can also be recycled for resources.</p>",
+      "article": "<p>The <strong>Bombardier Cell</strong> is a component salvaged from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bombardier\">Bombardiers</a>. It helps Raiders progress by serving as a material for various upgrades and projects. You need it to upgrade the Refiner, which is used for crafting. These cells are also a requirement for the Expedition 3 project and the Trophy Display project, which contribute to your overall progression or Hideout improvements. <strong>Bombardier Cells</strong> are obtained by defeating <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/bombardier\">Bombardiers</a>, a type of ARC commonly found in <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> as well as most other maps. This item can also be recycled for valuable resources.</p>",
       "guide_url": null
     },
     {
@@ -6862,7 +6862,7 @@
       "flavor_text": "",
       "subcategory": "Key",
       "created_at": "2025-10-08T13:01:53.849761+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:30:59.970365+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -6874,7 +6874,7 @@
         }
       ],
       "guide_links": [],
-      "article": "<p>The Buried City Town Hall Key is a key item specifically designed to unlock the main entrance of the Town Hall building in the <a href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> map. Finding this key allows Raiders to access new sections of the Town Hall, which may contain valuable items or progress quests. Raiders typically obtain this key by thoroughly exploring the Buried City map, searching various containers and hidden spots in the environment.</p>",
+      "article": "<p>The Buried City Town Hall Key is a key item specifically designed to unlock the main entrance of the Town Hall building in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> map. Finding this key allows Raiders to access the Town Hall building, which is otherwise inaccessible and may contain valuable items or progress quests. Raiders typically obtain this key by thoroughly exploring the Buried City map, searching various containers and hidden spots in the environment.</p>",
       "guide_url": null
     },
     {
@@ -6942,7 +6942,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T07:59:58.594316+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:21:42.727734+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -6954,7 +6954,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>The <strong>Burletta Blueprint</strong> is a blueprint that allows you to craft the Burletta item. Obtaining blueprints like this allows Raiders to expand their available gear options, which helps with overall progression. The specific way to acquire this blueprint is often a topic of discussion among Raiders, with many wondering if it exists or if it is tied to a particular quest. Raiders looking for blueprints can often utilize the <a href=\"https://metaforge.app/arc-raiders/needed-items\">Needed Items Tracker</a> to keep tabs on what they need.</p>",
+      "article": "<p>The <strong>Burletta Blueprint</strong> is a blueprint that allows you to craft the Burletta pistol. The specific way to acquire this blueprint is often a topic of discussion among Raiders, as it <strong>does not currently exist as a drop in the game.</strong> The Burletta blueprint is <strong>strictly a Quest Reward</strong>. You must complete the <a target=\"_blank\" rel=\"noreferrer noopener\" href=\"https://metaforge.app/arc-raiders/database/quest/industrial-espionage\"><strong>“Industrial Espionage” questline</strong></a> from Tian Wen in Speranza to receive it as a Reward.</p>",
       "guide_url": null
     },
     {
@@ -14146,14 +14146,14 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2026-05-19T17:43:19.827059+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T15:49:49.719486+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Extended Barrel II Blueprint</strong> is a blueprint that, once acquired, permanently unlocks your ability to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/extended-barrel-ii\">extended barrel ii</a> at a crafting station in your <a href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a> whenever you have the required materials.</p>",
+      "article": "<p>The <strong>Extended Barrel II Blueprint</strong> is a blueprint that, once acquired, permanently unlocks your ability to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/extended-barrel-ii\">Extended Barrel II</a> at a crafting station in your <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a> whenever you have the required materials.</p>",
       "guide_url": null
     },
     {
@@ -14162,7 +14162,7 @@
       "description": "Significantly increases bullet velocity & distance until damage falloff.",
       "item_type": "Modification",
       "loadout_slots": [],
-      "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-barrel.webp",
+      "icon": "https://static.metaforge.app/arc-raiders/icons/extended-barrel.webp",
       "rarity": "Epic",
       "value": 5000,
       "workbench": "Gunsmith I",
@@ -14206,7 +14206,7 @@
       "flavor_text": "",
       "subcategory": "Modification",
       "created_at": "2025-10-09T07:44:29.139855+00:00",
-      "updated_at": "2026-06-17T14:40:30.724601+00:00",
+      "updated_at": "2026-06-20T20:31:32.128901+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -14222,7 +14222,7 @@
       "description": "Lets you craft an Extended Barrel",
       "item_type": "Blueprint",
       "loadout_slots": [],
-      "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-barrel.webp",
+      "icon": "https://static.metaforge.app/arc-raiders/icons/extended-barrel-recipe.webp",
       "rarity": "Legendary",
       "value": 5000,
       "workbench": null,
@@ -14281,7 +14281,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:54:22.259418+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-20T20:31:10.392263+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -14971,7 +14971,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-11-06T07:19:38.971533+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T15:55:34.350149+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -14983,7 +14983,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>This is a blueprint that allows you to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/extended-medium-mag-iii\">Extended Medium Mag III</a> weapon mod at a Gunsmith bench level 1. Once crafted, it helps your compatible weapons hold a significantly larger amount of ammunition. It can also be recycled for resources.</p>",
+      "article": "<p>This is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/extended-medium-mag-iii\">Extended Medium Mag III</a> weapon mod at a Gunsmith bench. Once crafted, it helps your compatible weapons hold a significantly larger amount of ammunition. <br><br>For a better chance to find the Extended Medium Mag III Blueprint, focus on Night Raids or Electromagnetic Storms, and target <strong>high-value loot zones or Residential-style containers</strong>, including suitcases on Spaceport and cupboards on Buried City Night Raid.</p>",
       "guide_url": null
     },
     {
@@ -21181,7 +21181,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T08:57:16.099292+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:07:48.733111+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -21193,7 +21193,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>The Jupiter Blueprint is a blueprint that allows you to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/jupiter-i\">Jupiter</a> at a Gunsmith bench. Raiders obtain this blueprint by defeating the Harvester, an ARC.</p>",
+      "article": "<p>The Jupiter Blueprint is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/jupiter-i\">Jupiter</a> at a Gunsmith bench. Raiders obtain this blueprint by solving the Harvester puzzle protected by the <a href=\"https://metaforge.app/arc-raiders/database/arc/queen\" target=\"_blank\">Queen</a> during the Harvester minor map condition.</p>",
       "guide_url": null
     },
     {
@@ -22067,14 +22067,14 @@
       "flavor_text": "",
       "subcategory": "Trinket",
       "created_at": "2026-04-28T10:07:30.551611+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:26:47.952623+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The \"Leviathan's Crown\" Ship Model is a unique trinket primarily used for decoration. Its main purpose is to allow Raiders to personalize their <strong>Raider Den</strong> by displaying it within their stash.</p>",
+      "article": "<p>The \"Leviathan's Crown\" Ship Model is a unique trinket primarily used for decoration. Its main purpose is to allow Raiders to personalize their <strong>Raider Den</strong> by displaying it within their stash and it also sells for a pretty penny.</p>",
       "guide_url": null
     },
     {
@@ -23144,14 +23144,14 @@
       "flavor_text": "A Safe Pocket that allows any item to be stored.",
       "subcategory": "Augment",
       "created_at": "2026-01-27T13:32:07.410543+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:34:43.404238+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <strong>Looting Mk. 3 (Safekeeper)</strong> is an augment that provides a secure pocket, allowing you to safely store any items you find. This makes it helpful for increasing your overall looting potential, though it does impact your loadout weight and other utility. You craft this augment at a Gear Bench after obtaining its blueprint. The <a href=\"https://metaforge.app/arc-raiders/database/item/looting-mk-3-safekeeper-blueprint\">Looting Mk. 3 (Safekeeper) Blueprint</a> has been found in the Reinforced Reception area.</p>",
+      "article": "<p>The <strong>Looting Mk. 3 (Safekeeper)</strong> is an augment that provides a secure pocket, allowing you to safely store any items you find. This augment allows you to Safe-pocket a weapon - something other augments do not allow. You craft this augment at a Gear Bench after obtaining its blueprint. The <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/looting-mk-3-safekeeper-blueprint\">Looting Mk. 3 (Safekeeper) Blueprint</a> has been found in the Reinforced Reception area.</p>",
       "guide_url": null
     },
     {
@@ -23924,7 +23924,7 @@
       "loadout_slots": [],
       "icon": "https://cdn.metaforge.app/arc-raiders/icons/matriarch-reactor.webp",
       "rarity": "Legendary",
-      "value": 13000,
+      "value": 11000,
       "workbench": null,
       "stat_block": {
         "range": 0,
@@ -23981,7 +23981,7 @@
       "flavor_text": "Used to Craft: Aphelion",
       "subcategory": "Recyclable",
       "created_at": "2025-11-13T22:05:15.800479+00:00",
-      "updated_at": "2026-06-19T20:32:02.299779+00:00",
+      "updated_at": "2026-06-22T08:32:46.45804+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
@@ -24910,7 +24910,7 @@
       "flavor_text": null,
       "subcategory": "Recyclable",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:35:41.562057+00:00",
       "shield_type": null,
       "loot_area": "Mechanical",
       "sources": null,
@@ -24922,7 +24922,7 @@
           "label": "Motors Video"
         }
       ],
-      "article": "<p>A Motor is a small electrical component used for upgrades. Its primary purpose is to help improve your <a href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a> by upgrading the Refiner. You can find Motors by scavenging from containers, often within car hoods in the Water Treatment area of the <a href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a>. Motors can also be recycled into general crafting materials.</p>",
+      "article": "<p>A Motor is a mechanical component used for workbench upgrades. Its primary purpose is to help improve your <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/hideout\">Hideout</a> by upgrading the Refiner. You can find Motors by scavenging from containers, often within car hoods in the Water Treatment area of the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a>. Motors can also be recycled into general crafting materials.</p>",
       "guide_url": "/arc-raiders/where-to-get-motors-arc-raiders"
     },
     {
@@ -24990,7 +24990,7 @@
       "flavor_text": "",
       "subcategory": "Nature",
       "created_at": "2025-10-08T16:55:42.115912+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:32:17.467742+00:00",
       "shield_type": "",
       "loot_area": "Nature",
       "sources": null,
@@ -25002,7 +25002,7 @@
           "label": "Mushrooms Video"
         }
       ],
-      "article": "<p>Mushrooms are a healing item you can consume to recover a small amount of health. They are also used to train Scrappy.</p><p>You can find Mushrooms in various places across several <a href=\"https://metaforge.app/arc-raiders/map\">maps</a>. In the <a href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> map, look for them on pipes in the Water Treatment Control area, along the sandy shores and inside irrigation planters of the Hydroponic Dome Complex, and on nearby trees in the Central Swamp Lift and Wreckage areas. In the <a href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> map, check the small hangar south of the East Container Yard, on a tree there, and inside underground tunnels in the center of the map. In the <a href=\"https://metaforge.app/arc-raiders/map/riven-tides\">Riven Tides</a> map, they grow on trees in the Dried Riverbed. They can also be found by scavenging salvage.</p>",
+      "article": "<p>Mushrooms are a healing item you can consume to recover a small amount of health. They are also used to train Scrappy.</p><p>You can find Mushrooms in various places across several <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map\">maps</a>. In the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> map, look for them on pipes in the Water Treatment Control area, along the sandy shores and inside irrigation planters of the Hydroponic Dome Complex, and on nearby trees in the Central Swamp Lift and Wreckage areas. In the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> map, check the small hangar south of the East Container Yard, on a tree there, and inside underground tunnels in the center of the map. In the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/riven-tides\">Riven Tides</a> map, they grow on trees in the Dried Riverbed. They can also be found inside wicker baskets during the Lush Bloom minor map condition.</p>",
       "guide_url": "/arc-raiders/where-to-find-mushrooms-arc-raiders"
     },
     {
@@ -26404,7 +26404,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-10-09T09:01:43.798542+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:27:45.754605+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -26416,7 +26416,7 @@
           "label": "How to Find Every Blueprint"
         }
       ],
-      "article": "<p>The <strong>Padded Stock Blueprint</strong> is a blueprint that allows you to craft the <a href=\"https://metaforge.app/arc-raiders/database/item/padded-stock\">Padded Stock</a> weapon modification at a Gunsmith Bench. This modification improves weapon stability by reducing vertical and horizontal recoil, and also lessens how much your shots spread. However, it slightly increases the time it takes to ready your weapon or aim down sights. You can obtain this blueprint by looting <a href=\"https://metaforge.app/arc-raiders/database/arc/rollbot\">Surveyor</a> ARCs.</p>",
+      "article": "<p>The <strong>Padded Stock Blueprint</strong> is a blueprint that allows you to craft the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/padded-stock\">Padded Stock</a> weapon modification at a Gunsmith Bench. This modification improves weapon stability by reducing vertical and horizontal recoil, and also lessens how much your shots spread. However, it slightly increases the time it takes to ready your weapon or aim down sights. You can obtain this blueprint by looting various containers in Residential areas as well as looting <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/rollbot\">Surveyor</a> ARCs.</p>",
       "guide_url": null
     },
     {
@@ -27755,7 +27755,7 @@
       ],
       "icon": "https://cdn.metaforge.app/arc-raiders/icons/power-rod.webp",
       "rarity": "Epic",
-      "value": 5500,
+      "value": 4997,
       "workbench": "Refiner",
       "stat_block": {
         "range": 0,
@@ -27812,7 +27812,7 @@
       "flavor_text": null,
       "subcategory": "Refined Material",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-22T08:33:20.758422+00:00",
       "shield_type": null,
       "loot_area": "Exodus",
       "sources": null,
@@ -28272,14 +28272,14 @@
       "flavor_text": "",
       "subcategory": "Recyclable",
       "created_at": "2025-11-02T12:19:18.20894+00:00",
-      "updated_at": "2026-06-19T20:17:40.021966+00:00",
+      "updated_at": "2026-06-21T15:40:35.400364+00:00",
       "shield_type": "",
       "loot_area": "ARC",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>The <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a> Reactor is a crafting component primarily used to create weapons and currently commonly used to trade for various account upgrades with Ermal - the Nomadic Envoys Trader. You can use it to craft items at a Gunsmith. Raiders obtain the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a> Reactor by scavenging destroyed <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queens</a> or by looting their leg armor segments that break off during battle.</p>",
+      "article": "<p>The <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queen</a> Reactor is a crafting component primarily used to create weapons and currently commonly used to trade for various account upgrades with Ermal - the Nomadic Envoys Trader. You can use it to craft items at a Gunsmith. Raiders obtain the Queen Reactor by scavenging destroyed <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/arc/queen\">Queens</a> or by looting their leg armor segments that break off during battle.</p>",
       "guide_url": null
     },
     {
@@ -31349,7 +31349,7 @@
       "flavor_text": "",
       "subcategory": "Key",
       "created_at": "2026-04-30T08:20:46.279014+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:18:35.051013+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -31361,7 +31361,7 @@
         }
       ],
       "guide_links": [],
-      "article": "<p>The Riven Tides Secure Storage Keycard is a keycard that opens a locked door to the Secure Storage room, which is located within the Port Authority Building in the <a href=\"https://metaforge.app/arc-raiders/map/riven-tides\">Riven Tides</a> map. Gaining access to this room allows Raiders to find items inside. You can obtain this keycard by searching containers, especially Breachable Containers, which are found across several <a href=\"https://metaforge.app/arc-raiders/map\">maps</a>. Raiders have reported finding it most often in the <a href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> map, but also in the <a href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> map, <a href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> map, <a href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> map, and <a href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map. It is also available during the <a href=\"https://metaforge.app/arc-raiders/event-timers\">Night Raid</a> event.</p>",
+      "article": "<p>The Riven Tides Secure Storage Keycard is a keycard that opens a locked door to the Secure Storage room, which is located within the Port Authority Building in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/riven-tides\">Riven Tides</a> map. Gaining access to this room allows Raiders to find items inside. You can obtain this keycard by searching containers, especially Breachable Containers, which are found across various <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map\">maps</a>. Raiders have reported finding it most often in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> map, but also in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/dam\">Dam Battlegrounds</a> map, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/spaceport\">Spaceport</a> map, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/stella-montis\">Stella Montis</a> map, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/blue-gate\">Blue Gate</a> map. It is also available during the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/event-timers\">Night Raid</a> event.</p>",
       "guide_url": null
     },
     {
@@ -31599,14 +31599,14 @@
       "flavor_text": "",
       "subcategory": "Nature",
       "created_at": "2025-10-09T10:02:23.436775+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:16:18.344983+00:00",
       "shield_type": "",
       "loot_area": "Nature",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>Roots are a crafting material used in various projects.</p>",
+      "article": "<p>Roots are a crafting material used in various projects in ARC Raiders. They can commonly be found under trees and around bushes as well as valleys near broken trees. Check various <a href=\"https://metaforge.app/arc-raiders/map\" target=\"_blank\">Metaforge Maps</a> to see where players are finding Roots more commonly.</p>",
       "guide_url": null
     },
     {
@@ -35316,14 +35316,14 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-11-07T12:28:16.063805+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:28:34.890435+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
       "ammo_type": "",
       "locations": [],
       "guide_links": [],
-      "article": "<p>A Smoke Grenade Blueprint allows you to craft smoke grenades at a <strong>Workbench</strong> or <strong>Utility Station</strong>, which create a cloud to block visibility from ARCs and other Raiders. It can be found by looting containers in the <a href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> map during Night Raid or Cold Snap game types.</p>",
+      "article": "<p>A Smoke Grenade Blueprint allows you to craft smoke grenades at a <strong>Workbench</strong> or <strong>Utility Station</strong>, which create a cloud to block visibility from ARCs and other Raiders. It can be found by looting containers in <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/map/buried-city\">Buried City</a> as well as other maps during Night Raid or Cold Snap game types.</p>",
       "guide_url": "/arc-raiders/where-to-find-the-smoke-grenade-blueprint-in-arc-raiders"
     },
     {
@@ -37074,14 +37074,14 @@
       "flavor_text": null,
       "subcategory": "Topside Material",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:14:14.851673+00:00",
       "shield_type": null,
       "loot_area": "Industrial",
       "sources": null,
       "ammo_type": null,
       "locations": [],
       "guide_links": [],
-      "article": "<p><strong>Steel Spring</strong> is a material used in crafting. Its main purpose is to create various weapon modifications at the Gunsmith bench and other components at the Refiner. It is also a necessary component to complete the Expedition project. You can find <strong>Steel Spring</strong> by scavenging in the environment or by opening Metal Crates. It can also be purchased from Celeste. This material can be recycled into other resources.</p>",
+      "article": "<p><strong>Steel Spring</strong> is a material used in crafting. Its main purpose is to create various weapon modifications at the Gunsmith bench and other components at the Refiner. It is also a necessary component to complete the Expedition project. You can find <strong>Steel Spring</strong> by scavenging in the environment or by opening Metal Crates. It can also be purchased from Celeste.</p>",
       "guide_url": null
     },
     {
@@ -43215,7 +43215,7 @@
       "flavor_text": "",
       "subcategory": "Blueprint",
       "created_at": "2025-11-09T21:06:03.017644+00:00",
-      "updated_at": "2026-06-15T07:45:11.797307+00:00",
+      "updated_at": "2026-06-21T16:05:17.934538+00:00",
       "shield_type": "",
       "loot_area": "",
       "sources": null,
@@ -43231,7 +43231,7 @@
           "label": "Hidden Bunker Explained"
         }
       ],
-      "article": "<p>The <strong>Vulcano Blueprint</strong> is a blueprint that allows you to craft at the Refiner. You can discover it by inspecting electrical panels found in the game world. Another blueprint you might find is the <a href=\"https://metaforge.app/arc-raiders/database/item/tempest-i-recipe\">Tempest Blueprint</a>.</p>",
+      "article": "<p>The <strong>Vulcano Blueprint</strong> is a blueprint that allows you to craft at the Refiner. You can find it by searching various containers during the Hidden Bunker map condition and by searching First Wave Caches during Hurricane map condition. Another rare blueprint you might find is the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://metaforge.app/arc-raiders/database/item/tempest-i-recipe\">Tempest Blueprint</a>.</p>",
       "guide_url": null
     },
     {
