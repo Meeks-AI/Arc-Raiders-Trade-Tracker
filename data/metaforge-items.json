@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T11:43:24.512Z",
+  "updatedAt": "2026-08-04T10:49:34.527Z",
   "count": 595,
   "data": [
     {
@@ -2705,7 +2705,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Blueprint",
       "created_at": "2026-08-01T08:57:03.360883+00:00",
       "updated_at": "2026-08-01T08:57:03.360883+00:00",
       "shield_type": "",
@@ -8684,7 +8684,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T11:53:17.692571+00:00",
       "updated_at": "2026-06-16T19:36:15.848196+00:00",
       "shield_type": "",
@@ -8759,7 +8759,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T11:51:43.723472+00:00",
       "updated_at": "2026-06-16T19:36:38.324267+00:00",
       "shield_type": "",
@@ -8834,7 +8834,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T11:38:43.108774+00:00",
       "updated_at": "2026-06-16T19:36:55.874323+00:00",
       "shield_type": "",
@@ -10252,7 +10252,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "Misc",
+      "subcategory": "Quick Use",
       "created_at": "2026-04-28T09:10:35.646409+00:00",
       "updated_at": "2026-06-29T16:23:45.943415+00:00",
       "shield_type": "",
@@ -12875,7 +12875,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Blueprint",
       "created_at": "2026-08-01T08:59:41.545124+00:00",
       "updated_at": "2026-08-01T08:59:41.545124+00:00",
       "shield_type": "",
@@ -13253,7 +13253,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T11:35:23.18595+00:00",
       "updated_at": "2026-06-16T19:34:27.65139+00:00",
       "shield_type": "",
@@ -13638,7 +13638,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T11:36:55.412413+00:00",
       "updated_at": "2026-06-16T19:33:00.710826+00:00",
       "shield_type": "",
@@ -24129,7 +24129,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-07-16T18:58:11.204924+00:00",
       "updated_at": "2026-08-01T09:18:10.064739+00:00",
       "shield_type": "",
@@ -29103,7 +29103,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "Misc",
+      "subcategory": "Special",
       "created_at": "2026-05-19T17:09:16.154212+00:00",
       "updated_at": "2026-06-29T16:24:14.679203+00:00",
       "shield_type": "",
@@ -29483,7 +29483,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Blueprint",
       "created_at": "2026-08-01T09:01:19.718164+00:00",
       "updated_at": "2026-08-01T09:01:19.718164+00:00",
       "shield_type": "",
@@ -33802,7 +33802,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T11:40:37.274694+00:00",
       "updated_at": "2026-06-16T19:32:10.557161+00:00",
       "shield_type": "",
@@ -34458,7 +34458,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": null,
-      "subcategory": null,
+      "subcategory": "Topside Material",
       "created_at": "2025-09-23T18:21:03.915759+00:00",
       "updated_at": "2026-08-01T09:18:36.768295+00:00",
       "shield_type": null,
@@ -40006,7 +40006,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T11:41:42.671469+00:00",
       "updated_at": "2026-06-16T19:33:36.892233+00:00",
       "shield_type": "",
@@ -41429,7 +41429,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T10:29:48.580808+00:00",
       "updated_at": "2026-06-16T19:30:31.288369+00:00",
       "shield_type": "",
@@ -41734,7 +41734,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "Misc",
+      "subcategory": "Recyclable",
       "created_at": "2026-04-28T10:10:41.978337+00:00",
       "updated_at": "2026-06-29T16:24:34.280219+00:00",
       "shield_type": "",
@@ -43076,7 +43076,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "",
+      "subcategory": "Trinket",
       "created_at": "2026-06-16T10:12:27.027356+00:00",
       "updated_at": "2026-06-16T19:31:08.469893+00:00",
       "shield_type": "",
@@ -44322,7 +44322,7 @@
         "reducedDispersionRecoveryTime": 0
       },
       "flavor_text": "",
-      "subcategory": "Misc",
+      "subcategory": "Quick Use",
       "created_at": "2026-04-28T09:10:47.235009+00:00",
       "updated_at": "2026-06-29T16:24:38.410354+00:00",
       "shield_type": "",
